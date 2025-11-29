@@ -1,1 +1,37 @@
+Project Overview
 
+Sanai3y is a web-based platform designed to connect customers with skilled local craftsmen—plumbers, electricians, carpenters, painters, and more. The system aims to simplify service requests, facilitate communication, and ensure secure payments while protecting the rights of both customers and craftsmen through verified interactions and digital contracts.
+
+The platform is implemented using ASP.NET for backend services, Entity Framework Core for database interactions with SQL Server, and real-time communication is handled via SignalR. Payments are integrated securely through third-party gateways.
+
+Core Functionality
+
+Sanai3y provides a streamlined experience for both customers and craftsmen. Users can register, verify their identities, and manage profiles securely. Craftsmen can publish, update, and manage services, while customers can search, request, and review services. The platform supports internal chat, automated contract generation, and payment processing, ensuring transparency and accountability at every stage.
+
+Additional features include real-time notifications, performance optimization, and SEO readiness to enhance accessibility and usability. Security is a primary concern, with encrypted data storage and secure communication channels throughout the system.
+
+Policies and Guidelines
+
+Craftsmen must publish at least one service to activate their account.
+
+Verification through valid identification is mandatory.
+
+External contact sharing is prohibited; all interactions must remain within the platform.
+
+Reviews are compulsory after service completion.
+
+Attempts to bypass platform rules may result in account suspension or banning.
+
+System Requirements and Design Considerations
+
+The project is designed to ensure high performance, reliability, and security. Functional requirements include user registration, service management, chat, requests and offers, payment processing, and a review system. Non-functional considerations prioritize security, responsiveness, and search engine optimization to enhance discoverability.
+
+The architecture focuses on maintainability and scalability while keeping the frontend and backend integrated seamlessly in a monolithic structure.
+
+Future Enhancements
+
+Potential improvements include AI-driven service recommendations, loyalty and rewards systems, and support for additional payment gateways. The system is built to accommodate expansion and evolving user needs while maintaining trust and professional service standards.
+
+Conclusion
+
+Sanai3y provides a professional, secure, and user-friendly platform for organizing local craftsmanship services. By emphasizing transparency, verification, and reliable communication, it addresses the needs of both customers and craftsmen, fostering trust and satisfaction across the platform.
