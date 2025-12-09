@@ -1,0 +1,1517 @@
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.ClientModel.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Text.Json.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+E:\depi project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+E:\depi project\sanaiy\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.ClientModel.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Text.Json.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\DEPI_Project\sanaiy\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+D:\DEPI_Project\sanaiy\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.sanaiy.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CopyComplete
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\sanaiy(Sign_Login)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+D:\sanaiy(Sign_Login)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.sanaiy.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sanaiy.UI.props
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CopyComplete
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.sanaiy.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.sanaiy.UI.props
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sanaiy.UI.props
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sanaiy.UI.props
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CopyComplete
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\appsettings.Development.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\appsettings.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.runtime.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.staticwebassets.endpoints.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.exe
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.deps.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.runtimeconfig.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.UI.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\AutoMapper.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Azure.Core.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Azure.Identity.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Humanizer.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.CodeDom.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.BLL.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\bin\Debug\net8.0\sanaiy.DAL.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.AssemblyReference.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfoInputs.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.AssemblyInfo.cs
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.CoreCompileInputs.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.RazorAssemblyInfo.cs
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\scopedcss\bundle\sanaiy.UI.styles.css
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\scopedcss\projectbundle\sanaiy.UI.bundle.scp.css
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\staticwebassets.development.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.csproj.Up2Date
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\refint\sanaiy.UI.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\sanaiy.UI.genruntimeconfig.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.UI\obj\Debug\net8.0\ref\sanaiy.UI.dll

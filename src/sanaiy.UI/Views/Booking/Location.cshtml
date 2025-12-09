@@ -1,0 +1,275 @@
+﻿@using sanaiy.BLL.DTOs.Address
+
+@{
+    ViewData["Title"] = "Select Location";
+    var addresses = ViewBag.Addresses as List<AddressListItemDto>;
+    var serviceId = ViewBag.ServiceId as Guid?;
+    var governorates = ViewBag.Governorates as List<string>;
+}
+@{
+    Layout = "_ClientLayout";
+}
+<!DOCTYPE html>
+<html class="light" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sanaiy - Select Location</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#0D47A1",
+                        "background-light": "#F7F9FC",
+                        "background-dark": "#121212",
+                        "footer-bg": "#1a253c",
+                        "footer-bg-darker": "#0b3b9a",
+                    },
+                    fontFamily: { display: ["Roboto", "sans-serif"] },
+                    borderRadius: { DEFAULT: "0.5rem" },
+                },
+            },
+        };
+    </script>
+    <style>
+        .material-icons {
+            font-size: inherit;
+            line-height: inherit;
+        }
+
+        .location-item.selected {
+            border-color: #0D47A1;
+            background-color: #eff6ff;
+            border-width: 2px;
+        }
+
+        .dark .location-item.selected {
+            background-color: #1e3a8a;
+            border-color: #0D47A1;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-gray-800 dark:text-gray-200">
+    <div class="flex flex-col min-h-screen">
+
+
+        <!-- Main -->
+        <main class="flex-grow mt-20">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
+                <!-- Stepper -->
+                <div class="mb-8 overflow-x-auto">
+                    <div class="flex items-center justify-between w-full min-w-[600px] gap-0">
+                        <div class="flex flex-col items-center text-primary shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-orange-400 text-white">
+                                <i class="material-icons text-lg">design_services</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Services</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-orange-400 mx-2 self-center"></div>
+
+                        <div class="flex flex-col items-center text-primary shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-primary text-white ring-2 ring-blue-200">
+                                <i class="material-icons text-lg">location_on</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Location</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-gray-300 mx-2 self-center"></div>
+
+                        <div class="flex flex-col items-center text-gray-500 shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200">
+                                <i class="material-icons text-lg">calendar_today</i>
+                            </div>
+                            <p class="mt-2 whitespace-nowrap">Schedule</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-gray-300 mx-2 self-center"></div>
+
+                        <div class="flex flex-col items-center text-gray-500 shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200">
+                                <i class="material-icons text-lg">check_circle_outline</i>
+                            </div>
+                            <p class="mt-2 whitespace-nowrap">Confirm</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Location Form -->
+                <div class="max-w-4xl mx-auto">
+                    <div class="bg-white dark:bg-slate-800 rounded-lg shadow-md border border-slate-200 dark:border-slate-700 p-8">
+                        <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-8">Select Location</h1>
+                        <div id="locations-list" class="space-y-4">
+                            <form method="post" asp-action="SaveLocation" asp-controller="Booking">
+                                <input type="hidden" name="serviceId" value="@serviceId" />
+                                <input type="hidden" id="selectedAddressId" name="addressId" />
+
+                                <div id="locations-list" class="space-y-4">
+                                    @if (addresses != null && addresses.Any())
+                                    {
+                                        foreach (var address in addresses)
+                                        {
+                                            <div class="location-item flex items-center justify-between p-4 border border-gray-200 dark:border-gray-700 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 hover:border-blue-200 transition-colors @(address.IsDefault ? "selected" : "")" data-address-id="@address.Id">
+                                                <div class="flex items-center">
+                                                    <i class="material-icons text-primary mr-4">location_on</i>
+                                                    <div>
+                                                        <p class="font-semibold text-gray-800 dark:text-gray-100">@address.FullAddress</p>
+                                                        <p class="text-sm text-gray-500 dark:text-gray-400">Type: @address.AddressType</p>
+                                                        <div class="flex items-center mt-1">
+                                                            <p class="text-sm text-gray-500 dark:text-gray-400 mr-2">City: @address.City</p>
+                                                            @if (address.IsDefault)
+                                                            {
+                                                                <span class="bg-blue-200 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded-full dark:bg-blue-900 dark:text-blue-300">Default</span>
+                                                            }
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                @if (address.IsDefault)
+                                                {
+                                                    <div class="flex items-center justify-center w-6 h-6 rounded-full bg-green-500 text-white">
+                                                        <i class="material-icons text-base">check</i>
+                                                    </div>
+                                                }
+                                            </div>
+                                        }
+                                    }
+                                    <div id="add-address-btn" class="flex items-center justify-center p-6 border-2 border-dashed border-gray-300 dark:border-gray-600 rounded-lg cursor-pointer hover:border-primary hover:text-primary dark:hover:border-primary dark:hover:text-primary transition-colors">
+                                        <i class="material-icons text-lg mr-2">add</i>
+                                        <span class="font-medium">Add New Address</span>
+                                    </div>
+                                </div>
+
+                                <div class="flex justify-between mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
+                                    <button type="button" class="px-6 py-2 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">Back</button>
+                                    <button type="submit" id="nextButton" disabled class="px-6 py-2 bg-primary text-white rounded-lg font-medium hover:bg-blue-800 transition-colors">Next</button>
+                                </div>
+                           </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <div id="footer"></div>
+    </div>
+
+    <!-- Modal for Adding Address -->
+    <div class="fixed inset-0 bg-black bg-opacity-60 z-40 backdrop-blur-sm" id="modal-overlay" style="display: none;"></div>
+    <div class="fixed inset-0 z-50 flex items-center justify-center p-4" id="add-address-modal" style="display: none;">
+        <div class="relative bg-white dark:bg-slate-800 rounded-lg shadow-xl w-full max-w-2xl p-8">
+            <button id="close-modal-btn" class="absolute top-4 right-4 text-gray-500 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 transition-colors">
+                <span class="material-icons text-2xl">close</span>
+            </button>
+            <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-6">Add New Address</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <label class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1" for="full-address">Full Address</label>
+                    <input class="w-full bg-background-light dark:bg-background-dark border border-gray-300 dark:border-gray-600 rounded-md px-3 py-2 focus:ring-primary focus:border-primary" id="full-address" type="text" />
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1" for="city">City</label>
+                    <select id="city" name="city" class="w-full bg-background-light dark:bg-background-dark border border-gray-300 dark:border-gray-600 rounded-md px-3 py-2 focus:ring-primary focus:border-primary">
+                        @foreach (var g in governorates)
+                        {
+                            <option value="@g">@g</option>
+                        }
+                    </select>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-1" for="address-type">Address Type</label>
+                    <select class="w-full bg-background-light dark:bg-background-dark border border-gray-300 dark:border-gray-600 rounded-md px-3 py-2 focus:ring-primary focus:border-primary" id="address-type" name="addressType">
+                        @foreach (var type in Enum.GetValues(typeof(sanaiy.BLL.Enums.AddressType)))
+                        {
+                            <option value="@type">@type</option>
+                        }
+                    </select>
+                </div>
+                <div class="flex items-end pb-2">
+                    <div class="flex items-center">
+                        <input class="h-4 w-4 rounded text-primary border-gray-300 dark:border-gray-600 focus:ring-primary" id="default-address" type="checkbox" />
+                        <label class="ml-2 text-sm font-medium text-gray-800 dark:text-gray-200" for="default-address">Default</label>
+                    </div>
+                </div>
+            </div>
+            <div class="flex justify-end items-center mt-8 space-x-3">
+                <button id="cancel-modal-btn" class="px-6 py-2 border rounded-md text-gray-800 dark:text-gray-200 border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">Cancel</button>
+                <button id="save-address-btn" class="px-6 py-2 bg-primary text-white rounded-md hover:bg-blue-700 transition-colors">Save Address</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+        // Load header/footer
+       
+
+        // Modal functionality
+        const addAddressBtn = document.getElementById('add-address-btn');
+        const modalOverlay = document.getElementById('modal-overlay');
+        const addAddressModal = document.getElementById('add-address-modal');
+        const closeModalBtn = document.getElementById('close-modal-btn');
+        const cancelModalBtn = document.getElementById('cancel-modal-btn');
+        const saveAddressBtn = document.getElementById('save-address-btn');
+
+        function openModal() { modalOverlay.style.display = 'block'; addAddressModal.style.display = 'flex'; }
+        function closeModal() { modalOverlay.style.display = 'none'; addAddressModal.style.display = 'none'; document.getElementById('full-address').value = ''; document.getElementById('default-address').checked = false; }
+
+        addAddressBtn.addEventListener('click', openModal);
+        closeModalBtn.addEventListener('click', closeModal);
+        cancelModalBtn.addEventListener('click', closeModal);
+        modalOverlay.addEventListener('click', closeModal);
+
+        // Address selection
+        function selectAddress(addressId) {
+            document.getElementById('selectedAddressId').value = addressId;
+            document.getElementById('nextButton').disabled = false;
+            document.querySelectorAll('.location-item').forEach(item => item.classList.remove('selected'));
+            const selectedDiv = document.querySelector(`[data-address-id="${addressId}"]`);
+            if (selectedDiv) selectedDiv.classList.add('selected');
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            // Initialize default selection
+            const defaultAddress = document.querySelector('.location-item .bg-green-500');
+            if (defaultAddress) {
+                const defaultDiv = defaultAddress.closest('.location-item');
+                const addressId = defaultDiv.getAttribute('data-address-id');
+                if (addressId) selectAddress(addressId);
+            }
+
+            // Click event for all locations
+            document.querySelectorAll('.location-item').forEach(item => {
+                item.addEventListener('click', function () {
+                    const addressId = this.getAttribute('data-address-id');
+                    selectAddress(addressId);
+                });
+            });
+        });
+
+        // Save new address via AJAX
+        saveAddressBtn.addEventListener('click', async function () {
+            const fullAddress = document.getElementById('full-address').value.trim();
+            const city = document.getElementById('city').value;
+            const addressType = document.getElementById('address-type').value;
+            const isDefault = document.getElementById('default-address').checked;
+
+            if (!fullAddress) { alert('Please enter a full address.'); return; }
+
+            try {
+                const response = await fetch('/booking/add-address-ajax', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ fullAddress, city, addressType, isDefault })
+                });
+                const result = await response.json();
+                if (result.success) { location.reload(); }
+                else { alert(result.message || 'Error saving address.'); }
+            } catch (err) { console.error(err); alert('Error saving address.'); }
+        });
+    </script>
+</body>
+</html>

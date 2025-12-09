@@ -1,0 +1,237 @@
+﻿@model WalletViewModel
+@{
+    Layout = "~/Views/Shared/_CraftsmanLayout.cshtml";
+    ViewData["Title"] = "Wallet";
+}
+
+<style>
+    .text-gray-300 {
+        background-color: rgb(13 71 161 / var(--tw-bg-opacity, 1));
+    }
+</style>
+
+<div class="container mx-auto px-4 py-8 max-w-6xl mt-[54px]">
+
+    <!-- Page Title -->
+    <h1 class="text-3xl font-bold text-primary mb-8">My Wallet</h1>
+
+    <!-- Alerts -->
+    @if (TempData["Success"] != null)
+    {
+        <div class="mb-4 p-4 bg-green-100 border border-green-300 text-green-700 rounded-lg">
+            @TempData["Success"]
+        </div>
+    }
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="mb-4 p-4 bg-red-100 border border-red-300 text-red-700 rounded-lg">
+            @TempData["Error"]
+        </div>
+    }
+
+    <!-- Wallet Overview -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+        <!-- Balance Card -->
+        <div class="bg-white shadow rounded-xl p-6">
+            <h3 class="text-lg font-bold mb-4">Available Balance</h3>
+            <p class="text-4xl font-bold text-gray-800 mb-4">@Model.Wallet.Balance EGP</p>
+
+            <!-- Withdraw Button -->
+            <button onclick="openWithdrawModal()"
+                    class="w-full bg-orange-500 text-white py-3 rounded-lg font-medium hover:bg-orange-600 transition">
+                Withdraw Funds
+            </button>
+
+            <!-- Wallet Status -->
+            <div class="mt-6">
+                <span class="text-gray-700 font-medium">Wallet Status:</span>
+                @if (Model.Wallet.IsFrozen)
+                {
+                    <span class="ml-2 text-red-600 font-semibold">Frozen</span>
+                }
+                else
+                {
+                    <span class="ml-2 text-green-600 font-semibold">Active</span>
+                }
+            </div>
+        </div>
+
+        <!-- Statistics -->
+        <div class="bg-white shadow rounded-xl p-6 md:col-span-2">
+            <h3 class="text-xl font-bold mb-6">Statistics</h3>
+
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+                <div>
+                    <p class="text-sm text-gray-500">Total Earnings</p>
+                    <p class="text-2xl font-bold text-gray-700">@Model.Wallet.TotalEarnings EGP</p>
+                </div>
+
+                <div>
+                    <p class="text-sm text-gray-500">Total Commissions</p>
+                    <p class="text-2xl font-bold text-gray-700">@Model.Wallet.TotalCommissions EGP</p>
+                </div>
+
+                <div>
+                    <p class="text-sm text-gray-500">Total Withdrawals</p>
+                    <p class="text-2xl font-bold text-gray-700">@Model.Wallet.TotalPayouts EGP</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Transactions Section -->
+    <div class="bg-white shadow rounded-xl p-6 mt-10">
+        <div class="flex justify-between items-center mb-6">
+            <h3 class="text-2xl font-bold">Transaction History</h3>
+            <span class="text-gray-500">@Model.Transactions.Count() transactions</span>
+        </div>
+
+        <!-- Table Header -->
+        <div class="grid grid-cols-5 px-4 py-3 bg-gray-100 rounded-lg mb-4">
+            <div class="text-sm font-semibold text-gray-500">Transaction Type</div>
+            <div class="text-sm font-semibold text-gray-500">Amount</div>
+            <div class="text-sm font-semibold text-gray-500">Direction</div>
+            <div class="text-sm font-semibold text-gray-500">Balance After</div>
+            <div class="text-sm font-semibold text-gray-500">Date & Time</div>
+        </div>
+
+        <!-- Empty State -->
+        @if (!Model.Transactions.Any())
+        {
+            <div class="text-center py-10 text-gray-400">
+                <i class="material-icons text-5xl mb-4">account_balance_wallet</i>
+                <p class="text-lg">No transactions yet</p>
+                <p class="text-sm mt-2">Your transaction history will appear here</p>
+            </div>
+        }
+        else
+        {
+            <!-- Transaction Rows -->
+            @foreach (var t in Model.Transactions)
+            {
+                <div class="grid grid-cols-5 px-4 py-3 border-b border-gray-100 hover:bg-gray-50 transition">
+                    <div class="text-gray-700">@t.Type</div>
+
+                    <div class="font-semibold text-gray-800">
+                        @t.Amount EGP
+                    </div>
+
+                    <div class="text-gray-700">
+                        @if (t.Direction == "In")
+                        {
+                            <span class="text-green-600 font-semibold flex items-center">
+                                <i class="material-icons text-sm mr-1">arrow_downward</i>
+                                Incoming
+                            </span>
+                        }
+                        else
+                        {
+                            <span class="text-red-600 font-semibold flex items-center">
+                                <i class="material-icons text-sm mr-1">arrow_upward</i>
+                                Outgoing
+                            </span>
+                        }
+                    </div>
+
+                    <div class="text-gray-700">
+                        @t.BalanceAfter EGP
+                    </div>
+
+                    <div class="text-gray-600">
+                        <div>@t.CreatedAt.ToString("yyyy-MM-dd")</div>
+                        <div class="text-sm">@t.CreatedAt.ToString("HH:mm")</div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<!-- Withdraw Modal -->
+<div id="withdrawModal" class="hidden fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl w-full max-w-md p-6 mx-4">
+        <div class="flex justify-between items-center mb-4">
+            <h2 class="text-xl font-bold">Withdraw Funds</h2>
+            <button onclick="closeWithdrawModal()" class="text-gray-500 hover:text-gray-700">
+                <i class="material-icons">close</i>
+            </button>
+        </div>
+
+        <div class="mb-4 p-3 bg-blue-50 rounded-lg">
+            <div class="flex items-center text-blue-700">
+                <i class="material-icons text-sm mr-2">info</i>
+                <span class="text-sm">Available balance: <strong>@Model.Wallet.Balance EGP</strong></span>
+            </div>
+        </div>
+
+        <form method="post" asp-action="RequestPayout">
+            <input type="hidden" name="CraftsmanId" value="@Model.Wallet.CraftsmanId" />
+
+            <div class="mb-4">
+                <label class="block mb-2 text-gray-600 font-medium">Amount (EGP)</label>
+                <div class="relative">
+                    <input type="number"
+                           step="0.01"
+                           min="1"
+                           max="@Model.Wallet.Balance"
+                           name="Amount"
+                           class="w-full border rounded-lg p-3 pl-10"
+                           placeholder="Enter amount"
+                           required />
+                    <span class="absolute left-3 top-3 text-gray-500">EGP</span>
+                </div>
+                <p class="text-xs text-gray-500 mt-1">Minimum withdrawal: 50 EGP</p>
+            </div>
+
+            <div class="mb-6">
+                <label class="block mb-2 text-gray-600 font-medium">Description (Optional)</label>
+                <textarea name="Note"
+                          class="w-full border rounded-lg p-3"
+                          rows="3"
+                          placeholder="Add a note for this withdrawal"></textarea>
+            </div>
+
+            <div class="flex justify-end gap-3">
+                <button type="button"
+                        onclick="closeWithdrawModal()"
+                        class="px-5 py-2.5 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition">
+                    Cancel
+                </button>
+
+                <button type="submit"
+                        class="px-5 py-2.5 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition flex items-center">
+                    <i class="material-icons text-sm mr-2">attach_money</i>
+                    Confirm Withdrawal
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function openWithdrawModal() {
+        document.getElementById('withdrawModal').classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeWithdrawModal() {
+        document.getElementById('withdrawModal').classList.add('hidden');
+        document.body.style.overflow = 'auto';
+    }
+
+    // Close modal when clicking outside
+    document.getElementById('withdrawModal').addEventListener('click', function(e) {
+        if (e.target.id === 'withdrawModal') {
+            closeWithdrawModal();
+        }
+    });
+
+    // Close modal with Escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            closeWithdrawModal();
+        }
+    });
+</script>

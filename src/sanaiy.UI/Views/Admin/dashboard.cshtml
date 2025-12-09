@@ -1,0 +1,91 @@
+﻿@* namespace sanaiy.UI.Views.Admin
+{
+<div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
+        <div class="bg-primary text-white p-6 rounded-lg flex items-center justify-between">
+            <div><p class="text-sm text-blue-200">Craftsmen</p><p class="text-3xl font-bold">6</p></div>
+            <span class="material-icons text-5xl text-blue-300">handyman</span>
+        </div>
+        <div class="bg-primary text-white p-6 rounded-lg flex items-center justify-between">
+            <div><p class="text-sm text-blue-200">Total Services</p><p class="text-3xl font-bold">995</p></div>
+            <span class="material-icons text-5xl text-blue-300">inventory_2</span>
+        </div>
+        <div class="bg-primary text-white p-6 rounded-lg flex items-center justify-between">
+            <div><p class="text-sm text-blue-200">Total Bookings</p><p class="text-3xl font-bold">5.0</p></div>
+            <span class="material-icons text-5xl text-blue-300">book</span>
+        </div>
+        <div class="bg-primary text-white p-6 rounded-lg flex items-center justify-between">
+            <div><p class="text-sm text-blue-200">Clients</p><p class="text-3xl font-bold">11</p></div>
+            <span class="material-icons text-5xl text-blue-300">person</span>
+        </div>
+    </div>
+
+    <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-sm">
+        <div class="flex items-center justify-between mb-4">
+            <div class="relative w-full max-w-sm">
+                <span class="material-icons absolute left-3 top-1/2 -translate-y-1/2 text-gray-400">search</span>
+                <input class="pl-10 w-full rounded-md border-gray-300 dark:border-gray-600 bg-background-light dark:bg-gray-700 text-gray-900 dark:text-gray-200 focus:ring-primary focus:border-primary" placeholder="Search clients, jobs, etc..." type="text" />
+            </div>
+            <button class="flex items-center space-x-2 px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-600 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span class="material-icons text-yellow-500 text-base">filter_alt</span>
+                <span>Choose Filter</span>
+                <span class="material-icons text-base">expand_more</span>
+            </button>
+        </div>
+
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm text-left">
+                <thead class="text-xs text-white uppercase bg-primary">
+                    <tr>
+                        <th class="px-6 py-3 rounded-l-md" scope="col">Service</th>
+                        <th class="px-6 py-3" scope="col">Location</th>
+                        <th class="px-6 py-3" scope="col">Client</th>
+                        <th class="px-6 py-3" scope="col">Handyman</th>
+                        <th class="px-6 py-3" scope="col">Is Active</th>
+                        <th class="px-6 py-3 rounded-r-md" scope="col">Review</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                        <td class="px-6 py-4 font-medium text-gray-900 dark:text-white">Fence Painting</td>
+                        <td class="px-6 py-4">Cairo</td>
+                        <td class="px-6 py-4">Mariam Mounir</td>
+                        <td class="px-6 py-4 text-red-500">Not Assigned</td>
+                        <td class="px-6 py-4">Yes</td>
+                        <td class="px-6 py-4">N/A</td>
+                    </tr>
+                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                        <td class="px-6 py-4 font-medium text-gray-900 dark:text-white">Fence Painting</td>
+                        <td class="px-6 py-4">Cairo</td>
+                        <td class="px-6 py-4">Mariam Mounir</td>
+                        <td class="px-6 py-4 text-red-500">Not Assigned</td>
+                        <td class="px-6 py-4">Yes</td>
+                        <td class="px-6 py-4">N/A</td>
+                    </tr>
+                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                        <td class="px-6 py-4 font-medium text-gray-900 dark:text-white">Fence Painting</td>
+                        <td class="px-6 py-4">Cairo</td>
+                        <td class="px-6 py-4">Mariam Mounir</td>
+                        <td class="px-6 py-4 text-red-500">Not Assigned</td>
+                        <td class="px-6 py-4">Yes</td>
+                        <td class="px-6 py-4">N/A</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="flex items-center justify-center pt-4">
+            <div class="flex items-center">
+                <button class="px-3 py-1 text-sm border border-gray-300 dark:border-gray-600 rounded-l-md text-gray-400 dark:text-gray-500 bg-gray-100 dark:bg-gray-700 cursor-not-allowed">Previous</button>
+                <button class="px-3 py-1 text-sm border-y border-gray-300 dark:border-gray-600 bg-primary text-white">1</button>
+                <button class="px-3 py-1 text-sm border-y border-r border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">2</button>
+                <button class="px-3 py-1 text-sm border border-gray-300 dark:border-gray-600 rounded-r-md text-primary hover:bg-gray-100 dark:hover:bg-gray-700">Next</button>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+
+} *@

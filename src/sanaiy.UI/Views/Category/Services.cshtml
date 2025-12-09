@@ -1,0 +1,242 @@
+﻿@model IEnumerable<sanaiy.BLL.DTOs.Service.ServiceListItemDto>
+@{
+    Layout = "_ClientLayout";
+    var category = ViewBag.Category as sanaiy.BLL.DTOs.Category.CategoryDetailsDto;
+    ViewData["Title"] = category?.Name + " Services - Sanaiy";
+}
+
+<!DOCTYPE html>
+<html lang="en" class="light">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#0D47A1",
+                        "background-light": "#F7F9FC",
+                        "background-dark": "#121212"
+                    },
+                    fontFamily: { display: ["Roboto", "sans-serif"] },
+                    borderRadius: { DEFAULT: "0.5rem" }
+                }
+            }
+        };
+    </script>
+    <style>
+        .rating {
+            display: flex;
+            gap: 2px;
+            align-items: center;
+        }
+
+        .star {
+            font-size: 20px;
+        }
+
+            .star.filled {
+                color: #FFA500;
+            }
+
+            .star.empty {
+                color: #D1D5DB;
+            }
+    </style>
+
+</head>
+<body class="bg-[#f6f8fa] font-['Roboto']">
+
+
+    <main class="container mx-auto mt-[135px] px-4 my-10">
+
+        <!-- Stepper -->
+        <div class="mb-8 overflow-x-auto">
+            <div class="flex items-center justify-between min-w-[600px] gap-0 w-full">
+                <div class="flex flex-col items-center text-primary shrink-0">
+                    <div class="w-10 h-10 flex items-center justify-center rounded-full bg-primary text-white ring-2 ring-blue-200">
+                        <i class="material-icons text-lg">design_services</i>
+                    </div>
+                    <p class="mt-2 font-semibold whitespace-nowrap">Services</p>
+                </div>
+                <div class="flex-1 border-t-2 border-gray-300 mx-2 self-center"></div>
+                <div class="flex flex-col items-center text-gray-500 shrink-0">
+                    <div class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200">
+                        <i class="material-icons text-lg">location_on</i>
+                    </div>
+                    <p class="mt-2 whitespace-nowrap">Location</p>
+                </div>
+                <div class="flex-1 border-t-2 border-gray-300 mx-2 self-center"></div>
+                <div class="flex flex-col items-center text-gray-500 shrink-0">
+                    <div class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200">
+                        <i class="material-icons text-lg">calendar_today</i>
+                    </div>
+                    <p class="mt-2 whitespace-nowrap">Schedule</p>
+                </div>
+                <div class="flex-1 border-t-2 border-gray-300 mx-2 self-center"></div>
+                <div class="flex flex-col items-center text-gray-500 shrink-0">
+                    <div class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200">
+                        <i class="material-icons text-lg">check_circle_outline</i>
+                    </div>
+                    <p class="mt-2 whitespace-nowrap">Confirm</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Services Form -->
+        <form method="post" asp-controller="Booking" asp-action="SaveSelectedServices" id="servicesForm">
+            <input type="hidden" name="selectedServicesJson" id="selectedServicesJson" />
+            <input type="hidden" name="additionalNote" id="additionalNoteInput" />
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+                <!-- Available Services -->
+                <div class="lg:col-span-2 bg-white shadow-sm rounded-xl p-6">
+                    <h2 class="text-lg font-semibold mb-6">Available Services (@Model.Count())</h2>
+                    @if (Model != null && Model.Any())
+                    {
+                        <div class="space-y-4">
+                            @foreach (var service in Model)
+{
+    <div class="flex justify-between items-center border border-gray-200 rounded-xl p-4 bg-white hover:bg-blue-50 transition"
+         data-id="@service.Id"
+         data-name="@service.ServiceName"
+         data-description="@service.Description"
+         data-rating="@service.CraftsmanRating">
+
+        <!-- Craftsman info + Service name -->
+        <div>
+            <div class="flex items-center gap-3 mb-1">
+                
+                    <div class="w-10 h-10 flex items-center justify-center bg-gray-300 text-white rounded-full">
+                        @service.CraftsmanName.Substring(0,1)
+                    </div>
+                
+                <h3 class="font-semibold text-gray-800">@service.CraftsmanName</h3>
+            </div>
+
+            <h4 class="font-semibold text-gray-900">@service.ServiceName</h4>
+            <p class="text-sm text-gray-500">@service.Description</p>
+
+            <!-- Rating -->
+            <div class="rating mt-1">
+                @for (int i = 1; i <= 5; i++)
+                {
+                    if (i <= Math.Round(service.CraftsmanRating))
+                    {
+                        <span class="star filled">&#9733;</span>
+                    }
+                    else
+                    {
+                        <span class="star empty">&#9733;</span>
+                    }
+                }
+            </div>
+        </div>
+
+        <button type="button" onclick="addService(this)" class="px-4 py-2 bg-primary text-white rounded-lg">
+            Add
+        </button>
+    </div>
+}
+
+                        </div>
+                    }
+                </div>
+
+                <!-- Selected Services -->
+                <div class="bg-white shadow-sm rounded-xl p-6">
+                    <h2 class="text-lg font-semibold mb-4">Selected Services</h2>
+                    <div id="selected-services" class="space-y-3">
+                        <p class="text-gray-500 text-sm">No service selected yet. Click "Add" on a service.</p>
+                    </div>
+
+                    <label class="block text-sm font-medium mt-4 mb-1">Additional Note</label>
+                    <textarea id="additionalNote" class="w-full h-32 rounded-lg border px-3 py-2" placeholder="Write any additional info..."></textarea>
+
+                    <button type="submit" id="nextButton" class="w-full mt-4 bg-primary text-white py-3 rounded-lg font-medium">
+                        Next
+                    </button>
+                </div>
+            </div>
+        </form>
+    </main>
+
+    <div id="footer"></div>
+    <script>
+        function addService(button) {
+            const card = button.closest('[data-id]');
+            const id = card.getAttribute('data-id');
+            const name = card.getAttribute('data-name');
+            const description = card.getAttribute('data-description');
+
+            const selectedContainer = document.getElementById('selected-services');
+
+            // لو فيه خدمة مضافة بالفعل، اعمل alert وارجع
+            if (selectedContainer.querySelector('[data-selected-id]')) {
+                alert('You can select only one service at a time.');
+                return;
+            }
+
+            const div = document.createElement('div');
+            div.className = 'flex justify-between items-center bg-gray-100 p-3 rounded-lg';
+            div.setAttribute('data-selected-id', id);
+            div.innerHTML = `
+                <div>
+                    <p class="font-semibold">${name}</p>
+                    <p class="text-sm text-gray-500">${description}</p>
+                </div>
+                <span class="material-icons text-gray-500 hover:text-red-500 cursor-pointer"
+                      onclick="removeService(this, '${id}')">delete</span>
+            `;
+            selectedContainer.appendChild(div);
+
+            // غيّر الزر عشان ميقدرش يضيف تاني
+            button.textContent = 'Added';
+            button.classList.remove('bg-primary');
+            button.classList.add('bg-orange-500', 'cursor-not-allowed');
+            button.disabled = true;
+        }
+
+        function removeService(deleteIcon, serviceId) {
+            const div = deleteIcon.closest('[data-selected-id]');
+            div.remove();
+
+            // خلي زر الإضافة يرجع Add ويقدر المستخدم يضيفها تاني
+            const serviceButton = document.querySelector(`[data-id='${serviceId}'] button`);
+            if (serviceButton) {
+                serviceButton.textContent = 'Add';
+                serviceButton.classList.remove('bg-orange-500', 'cursor-not-allowed');
+                serviceButton.classList.add('bg-primary');
+                serviceButton.disabled = false;
+            }
+        }
+
+
+
+        document.getElementById('servicesForm').addEventListener('submit', function (e) {
+            const selectedContainer = document.getElementById('selected-services');
+            const selectedServices = [];
+            selectedContainer.querySelectorAll('[data-selected-id]').forEach(item => {
+                selectedServices.push(item.getAttribute('data-selected-id'));
+            });
+
+            if (selectedServices.length === 0) {
+                e.preventDefault();
+                alert('Please select at least one service.');
+                return;
+            }
+
+            document.getElementById('selectedServicesJson').value = JSON.stringify(selectedServices);
+            document.getElementById('additionalNoteInput').value = document.getElementById('additionalNote').value;
+        });
+
+    </script>
+</body>
+</html>

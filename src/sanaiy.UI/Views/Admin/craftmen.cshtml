@@ -1,0 +1,138 @@
+﻿@model IEnumerable<sanaiy.BLL.Entities.Craftsman>
+@{
+    Layout = null; // injected into dashboard page
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Handyman Management</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet" />
+    <script>
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              colors: {
+                primary: "#0D6EFD",
+                "background-light": "#F8F9FA",
+                "background-dark": "#1A202C",
+              },
+              fontFamily: {
+                display: ["Roboto", "sans-serif"],
+              },
+              borderRadius: {
+                DEFAULT: "0.5rem",
+              },
+            },
+          },
+        };
+    </script>
+    <style> body { font-family: 'Roboto', sans-serif; } </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-gray-800 dark:text-gray-200">
+    <div class="min-h-screen p-4 sm:p-6 lg:p-8">
+        <div class="max-w-7xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+            <header class="mb-6">
+                <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Handyman Management</h2>
+            </header>
+
+            <div class="flex flex-col md:flex-row items-center justify-between mb-6 space-y-4 md:space-y-0 md:space-x-4">
+                <div class="relative w-full md:w-auto md:flex-1">
+                    <span class="material-icons-outlined absolute left-3 top-1/2 -translate-y-1/2 text-gray-400">search</span>
+                    <input id="craftsmanSearch" class="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-primary focus:border-primary" placeholder="Search by name or email" type="text" />
+                </div>
+                <div class="relative w-full md:w-auto">
+                    <select id="filterStatus" class="w-full md:w-48 appearance-none pr-8 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:ring-primary focus:border-primary">
+                        <option value="all">All Status</option>
+                        <option value="active">Active</option>
+                        <option value="inactive">Inactive</option>
+                    </select>
+                    <span class="material-icons-outlined absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none">expand_more</span>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-left" id="craftsmenTable">
+                    <thead class="bg-primary text-white">
+                        <tr>
+                            <th class="p-4 font-medium rounded-tl-lg">Name</th>
+                            <th class="p-4 font-medium">Image</th>
+                            <th class="p-4 font-medium">Email</th>
+                            <th class="p-4 font-medium">Specialty</th>
+                            <th class="p-4 font-medium">Status</th>
+                            <th class="p-4 font-medium rounded-tr-lg">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-200 dark:divide-gray-700">
+                        @foreach (var c in Model ?? Enumerable.Empty<sanaiy.BLL.Entities.Craftsman>())
+                        {
+                            <tr class="hover:bg-gray-50 dark:hover:bg-gray-700/50" data-name="@c.FullName" data-email="@c.Email" data-status="@c.Status">
+                                <td class="p-4 align-middle">@c.FullName</td>
+                                <td class="p-4 align-middle">
+                                    <img alt="Avatar" class="w-10 h-10 rounded-full object-cover" src="@(string.IsNullOrEmpty(c.ProfileImageUrl) ? "/images/craftsman-default.png" : (c.ProfileImageUrl.StartsWith("/") ? c.ProfileImageUrl : "/" + c.ProfileImageUrl))" />
+                                </td>
+                                <td class="p-4 align-middle">@c.Email</td>
+                                <td class="p-4 align-middle">@c.Category</td>
+                                <td class="p-4 align-middle">
+                                    @if (c.Status.ToString().ToLower().Contains("applied") || c.Status.ToString().ToLower().Contains("pending"))
+                                    {
+                                        <span class="px-3 py-1 text-sm font-medium text-yellow-800 bg-yellow-100 rounded-full">@c.Status</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="px-3 py-1 text-sm font-medium text-green-800 bg-green-100 rounded-full">@c.Status</span>
+                                    }
+                                </td>
+                                <td class="p-4 align-middle">
+                                    <div class="flex items-center space-x-2">
+                                        <a href="/Admin/ClientDetails/@c.Id" class="w-9 h-9 inline-flex items-center justify-center rounded-md text-blue-600 bg-blue-100 hover:bg-blue-200 transition-colors" title="View">
+                                            <span class="material-icons-outlined text-xl">visibility</span>
+                                        </a>
+                                        <a href="/Admin/EditCraftsman/@c.Id" class="w-9 h-9 inline-flex items-center justify-center rounded-md text-green-600 bg-green-100 hover:bg-green-200 transition-colors" title="Edit">
+                                            <span class="material-icons-outlined text-xl">edit</span>
+                                        </a>
+                                        <form method="post" action="/Admin/DeleteCraftsman" onsubmit="return confirm('Delete this craftsman?');" class="inline">
+                                            <input type="hidden" name="id" value="@c.Id" />
+                                            <button type="submit" class="w-9 h-9 inline-flex items-center justify-center rounded-md text-red-600 bg-red-100 hover:bg-red-200 transition-colors" title="Delete">
+                                                <span class="material-icons-outlined text-xl">delete</span>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function(){
+            const search = document.getElementById('craftsmanSearch');
+            const filter = document.getElementById('filterStatus');
+            const rows = () => Array.from(document.querySelectorAll('#craftsmenTable tbody tr'));
+
+            function applyFilter(){
+                const q = (search.value || '').toLowerCase();
+                const status = (filter.value || 'all').toLowerCase();
+                rows().forEach(r => {
+                    const name = (r.dataset.name || '').toLowerCase();
+                    const email = (r.dataset.email || '').toLowerCase();
+                    const st = (r.dataset.status || '').toLowerCase();
+                    const matchText = name.includes(q) || email.includes(q);
+                    const matchStatus = status === 'all' || st.includes(status);
+                    r.style.display = (matchText && matchStatus) ? '' : 'none';
+                });
+            }
+
+            if (search) search.addEventListener('input', applyFilter);
+            if (filter) filter.addEventListener('change', applyFilter);
+        })();
+    </script>
+</body>
+</html>

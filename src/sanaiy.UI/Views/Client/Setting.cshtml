@@ -1,0 +1,124 @@
+﻿@using sanaiy.UI.ViewModels
+@model SettingViewModel
+
+@{
+    Layout = "_ClientLayout";
+    ViewData["Title"] = "Settings";
+}
+
+<!DOCTYPE html>
+<html lang="en" class="light">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sanaiy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#0D47A1",
+                        "background-light": "#F7F9FC",
+                        "background-dark": "#121212",
+                        danger: "#D32F2F",
+                    },
+                    fontFamily: { display: ["Roboto", "sans-serif"] },
+                },
+            },
+        };
+    </script>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display min-h-screen flex flex-col">
+
+    <!-- HEADER -->
+    <header class="bg-white dark:bg-slate-800 shadow-md border-b border-slate-200 dark:border-slate-700 p-4">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold text-slate-800 dark:text-white">Sanaiy</h1>
+            <div class="relative">
+                <button id="userDropdownBtn" class="px-4 py-2 bg-primary text-white rounded-md">User Menu</button>
+                <div id="userDropdown" class="hidden absolute right-0 mt-2 w-48 bg-white dark:bg-slate-800 rounded-md shadow-lg z-50 border border-gray-200 dark:border-gray-700">
+                    <a href="/Client/Profile" class="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700">My Profile</a>
+                    <a href="/Setting/Settings" class="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700">Settings</a>
+                    <a href="#" class="block px-4 py-2 text-sm text-gray-700 dark:text-slate-200 hover:bg-gray-100 dark:hover:bg-slate-700">Add Violation</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="flex-grow container mx-auto px-6 py-12 max-w-3xl">
+        <h1 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-8">Account Settings</h1>
+
+        <!-- Change Password -->
+        <div class="bg-white dark:bg-slate-800 shadow-md rounded-lg p-6 border border-slate-200 dark:border-slate-700 mb-10">
+            <h2 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Change Password</h2>
+            <form class="space-y-5" method="POST" asp-action="ChangePassword" asp-controller="Setting">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 dark:text-slate-300">Current Password</label>
+                    <input asp-for="CurrentPassword" type="password" class="w-full mt-1 border ..." />
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 dark:text-slate-300">New Password</label>
+                    <input asp-for="NewPassword" type="password" class="w-full mt-1 border ..." />
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 dark:text-slate-300">Confirm New Password</label>
+                    <input asp-for="ConfirmNewPassword" type="password" class="w-full mt-1 border ..." />
+                </div>
+
+                <button type="submit" class="px-6 py-2 rounded-md bg-primary text-white font-medium hover:bg-blue-800">Update Password</button>
+            </form>
+        </div>
+
+        <!-- Delete Account -->
+        <div class="bg-white dark:bg-slate-800 shadow-md rounded-lg p-6 border border-slate-200 dark:border-slate-700">
+            <h2 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Delete Account</h2>
+            <p class="text-slate-600 dark:text-slate-300 mb-4">Deleting your account is permanent and cannot be undone.</p>
+            <button id="openDeleteModal" class="px-6 py-2 rounded-md bg-danger text-white font-medium hover:bg-red-700">Delete My Account</button>
+
+            <!-- Delete Confirmation Modal -->
+            <div id="deleteModal" class="fixed inset-0 bg-black bg-opacity-40 hidden flex items-center justify-center z-50">
+                <div class="bg-white dark:bg-slate-800 rounded-lg shadow-lg p-6 w-full max-w-md border border-slate-300 dark:border-slate-700">
+                    <h3 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Confirm Account Deletion</h3>
+                    <p class="text-slate-600 dark:text-slate-300 mb-4">This action cannot be undone. Deleting your account will permanently remove all your data.</p>
+                    <form method="POST" action="/Home/index" class="space-y-4">
+                        <div>
+                            <label class="block text-sm font-medium text-slate-700 dark:text-slate-300">Enter Your Password</label>
+                            <input type="password" name="password" required class="w-full mt-1 border border-slate-300 dark:border-slate-600 rounded-md p-2 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-200" />
+                        </div>
+                        <div class="flex justify-end gap-3 pt-2">
+                            <button type="button" id="closeDeleteModal" class="px-4 py-2 rounded-md border border-slate-400 dark:border-slate-600 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Cancel</button>
+                            <button type="submit" class="px-6 py-2 rounded-md bg-danger text-white hover:bg-red-700">Delete</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <a href="/Client/Profile" class="px-6 py-2 rounded-md bg-orange-400 text-white font-medium hover:bg-orange-500 mt-3 inline-block">Back</a>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-white dark:bg-slate-800 shadow-inner border-t border-slate-200 dark:border-slate-700 p-6 mt-auto">
+        <p class="text-center text-slate-700 dark:text-slate-200">&copy; 2025 Sanaiy. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Dropdown
+        const dropdownBtn = document.getElementById('userDropdownBtn');
+        const dropdown = document.getElementById('userDropdown');
+        dropdownBtn.addEventListener('click', () => dropdown.classList.toggle('hidden'));
+
+        // Modal
+        const modal = document.getElementById('deleteModal');
+        const openBtn = document.getElementById('openDeleteModal');
+        const closeBtn = document.getElementById('closeDeleteModal');
+        openBtn.addEventListener('click', () => modal.classList.remove('hidden'));
+        closeBtn.addEventListener('click', () => modal.classList.add('hidden'));
+    </script>
+</body>
+</html>

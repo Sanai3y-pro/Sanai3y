@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] Home </title>
+    <link rel="stylesheet" href="~/css/site.css" />
+
+</head>
+<style>
+    body {
+        opacity: 0;
+        transition: opacity 0.25s ease;
+    }
+</style>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        document.body.style.opacity = "1";
+    });
+</script>
+<body style="display:flex; flex-direction:column; min-height:100vh; margin:0;">
+
+    @Html.Partial("_ClientHeader")
+
+    <main style="flex:1;">
+        @RenderBody()
+    </main>
+
+    @Html.Partial("_footer")
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

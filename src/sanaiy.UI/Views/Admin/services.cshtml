@@ -1,0 +1,218 @@
+﻿namespace sanaiy.UI.Views.Admin
+{
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Service List</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              colors: {
+                primary: "#3b82f6", // Blue-500
+                "background-light": "#f8fafc", // Slate-50
+                "background-dark": "#0f172a", // Slate-900
+              },
+              fontFamily: {
+                display: ["Inter", "sans-serif"],
+              },
+              borderRadius: {
+                DEFAULT: "0.5rem",
+              },
+            },
+          },
+        };
+    </script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-gray-800 dark:text-gray-200">
+    <div class="min-h-screen p-4 sm:p-6 lg:p-8">
+        <div class="max-w-7xl mx-auto bg-white dark:bg-slate-800 rounded-lg shadow-sm p-6">
+            <h1 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Service List</h1>
+            <div class="flex flex-col sm:flex-row gap-4 mb-4">
+                <div class="relative w-full sm:w-48">
+                    <select class="w-full appearance-none rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-slate-700 py-2 pl-3 pr-10 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary">
+                        <option>All</option>
+                    </select>
+                    <span class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2 text-gray-700 dark:text-gray-300">
+                        <svg class="h-5 w-5 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"></path></svg>
+                    </span>
+                </div>
+                <div class="relative w-full sm:w-48">
+                    <select class="w-full appearance-none rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-slate-700 py-2 pl-3 pr-10 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary">
+                        <option>All Categories</option>
+                        <option>Cleaning</option>
+                        <option>Pest Control</option>
+                        <option>Handyman</option>
+                        <option>Plumbing</option>
+                        <option>Gardening</option>
+                        <option>Electricity</option>
+                    </select>
+                    <span class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2 text-gray-700 dark:text-gray-300">
+                        <svg class="h-5 w-5 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"></path></svg>
+                    </span>
+                </div>
+                <input class="w-full sm:w-64 rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-slate-700 py-2 px-3 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" placeholder="Search..." type="text" />
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm text-left text-gray-600 dark:text-gray-400">
+                    <thead class="text-xs text-white uppercase bg-primary">
+                        <tr>
+                            <th class="px-6 py-3" scope="col">Name</th>
+                            <th class="px-6 py-3" scope="col">Description</th>
+                            <th class="px-6 py-3" scope="col">Duration (min)</th>
+                            <th class="px-6 py-3" scope="col">Category</th>
+                            <th class="px-6 py-3" scope="col">Status</th>
+                            <th class="px-6 py-3 text-center" scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Air Conditioner Cleaning pipes</td>
+                            <td class="px-6 py-4">Remove dust from pipes and filters</td>
+                            <td class="px-6 py-4">60</td>
+                            <td class="px-6 py-4">Cleaning</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Deep Cleaning Kitchen</td>
+                            <td class="px-6 py-4">Fix indoor or outdoor AC units</td>
+                            <td class="px-6 py-4">120</td>
+                            <td class="px-6 py-4">Cleaning</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Carpet Shampooing</td>
+                            <td class="px-6 py-4">Wash balcony floors, railings, and exterior windows.</td>
+                            <td class="px-6 py-4">75</td>
+                            <td class="px-6 py-4">Cleaning</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Sofa Cleaning</td>
+                            <td class="px-6 py-4">Install standard-size bathtubs with fittings.</td>
+                            <td class="px-6 py-4">75</td>
+                            <td class="px-6 py-4">Cleaning</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Pest Control Treatment</td>
+                            <td class="px-6 py-4">Flinch control in outdoor units</td>
+                            <td class="px-6 py-4">50</td>
+                            <td class="px-6 py-4">Pest Control</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Pest Control Treatment</td>
+                            <td class="px-6 py-4">Install standard-size bathtubs with fittings.</td>
+                            <td class="px-6 py-4">180</td>
+                            <td class="px-6 py-4">Pest Control</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Handyman Services</td>
+                            <td class="px-6 py-4">Install standard-size bathtubs with fittings.</td>
+                            <td class="px-6 py-4">180</td>
+                            <td class="px-6 py-4">Handyman</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Painting Walls</td>
+                            <td class="px-6 py-4">Check and diagnose electrical panels for safety.</td>
+                            <td class="px-6 py-4">120</td>
+                            <td class="px-6 py-4">Plumbing</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Window Cleaning</td>
+                            <td class="px-6 py-4">Wash balcony floors, railings, windows.</td>
+                            <td class="px-6 py-4">75</td>
+                            <td class="px-6 py-4">Cleaning</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Gardening Service</td>
+                            <td class="px-6 py-4">Install garden tools, gardening your garden.</td>
+                            <td class="px-6 py-4">60</td>
+                            <td class="px-6 py-4">Gardening</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 border-b dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Plumbing Repair</td>
+                            <td class="px-6 py-4">Install standard-size bathtubs with fittings.</td>
+                            <td class="px-6 py-4">180</td>
+                            <td class="px-6 py-4">Plumbing</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                        <tr class="bg-white dark:bg-slate-800 hover:bg-gray-50 dark:hover:bg-slate-700/50">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">Electrical Installation</td>
+                            <td class="px-6 py-4">Check and diagnose electrical panels for safety.</td>
+                            <td class="px-6 py-4">50</td>
+                            <td class="px-6 py-4">Electricity</td>
+                            <td class="px-6 py-4"><span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-yellow-900 dark:text-yellow-300">Active</span></td>
+                            <td class="px-6 py-4 text-center"><button class="text-primary hover:text-blue-700 dark:hover:text-blue-400"><span class="material-icons-outlined">visibility</span></button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <nav aria-label="Table navigation" class="flex items-center justify-center pt-6">
+                <ul class="inline-flex items-center -space-x-px">
+                    <li>
+                        <a class="px-3 py-2 ml-0 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 rounded-l-lg hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">«</a>
+                    </li>
+                    <li>
+                        <a aria-current="page" class="z-10 px-3 py-2 leading-tight text-white border border-primary bg-primary hover:bg-blue-600" href="#">1</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">2</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">3</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">4</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">5</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">6</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">7</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">8</a>
+                    </li>
+                    <li>
+                        <a class="px-3 py-2 leading-tight text-gray-500 bg-white dark:bg-slate-800 border border-gray-300 dark:border-slate-700 rounded-r-lg hover:bg-gray-100 dark:hover:bg-slate-700 hover:text-gray-700 dark:hover:text-white dark:text-gray-400" href="#">»</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+</body>
+</html>
+}

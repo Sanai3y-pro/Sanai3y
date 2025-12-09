@@ -1,0 +1,640 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html class="light" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sanaiy - Skilled Help, Trusted Hands</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet" />
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&amp;display=swap"
+          rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+          rel="stylesheet" />
+    <!-- <link rel="stylesheet" href="home.css"> -->
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#005A9C",
+                        "secondary": "#FFA500",
+                        "background-light": "#FFFFFF",
+                        "background-dark": "#101922",
+                        "neutral-light": "#F4F7F9",
+                        "neutral-dark": "#1a242e",
+                        "text-light": "#333333",
+                        "text-dark": "#F4F7F9",
+                        "text-muted-light": "#617589",
+                        "text-muted-dark": "#94a3b8",
+                        'custom-blue': '#0D47A1',
+                        "darker-custom-blue": '#0b3b9a',
+                        "text-orange": "#fb923c"
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "0.75rem",
+                        "xl": "1rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24
+        }
+
+        @@keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .animate-float {
+            animation: float 3s ease-in-out infinite;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-text-light dark:text-text-dark">
+    <div class="relative flex min-h-screen w-full flex-col">
+        <header class="sticky top-0 z-50 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-sm border-b border-neutral-light dark:border-neutral-dark">
+            <div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
+                <div class="flex items-center gap-4">
+                    <span class="material-icons text-primary text-4xl">construction</span>
+                    <h2 class="text-2xl text-primary font-bold tracking-tight">
+                        Sanaiy
+                    </h2>
+                </div>
+                <!-- Desktop nav -->
+                <nav class="hidden items-center gap-8 md:flex">
+                    <a class="text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                       href="/Home/index">Home</a>
+                    <a class="text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                       href="/Home/about">About Us</a>
+                    <a class="text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                       href="/Home/Contact">Contact Us</a>
+                </nav>
+                <div class="flex items-center gap-4">
+                    <a asp-controller="UserAuth" asp-action="Login"
+                       class="flex min-w-[100px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-11 px-5 bg-primary text-white text-base font-bold shadow-sm transition-transform hover:scale-105">
+                        <span class="truncate">Sign In</span>
+                    </a>
+                    <!-- Mobile menu button -->
+                    <button id="menuButton" class="md:hidden"
+                            aria-label="Toggle Menu" aria-expanded="false">
+                        <span class="material-symbols-outlined text-3xl">menu</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mobile menu, hidden by default -->
+            <nav id="mobileMenu"
+                 class="hidden md:hidden bg-background-light dark:bg-background-dark border-t border-neutral-light dark:border-neutral-dark px-4 pb-4">
+                <a class="block py-2 text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                   href="/Home">Home</a>
+                <a class="block py-2 text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                   href="/Home/about">About Us</a>
+                <a class="block py-2 text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors"
+                   href="/Home/Contact">Contact Us</a>
+            </nav>
+        </header>
+        <main>
+            <!--first section-->
+            <section class="py-16 sm:py-24 bg-white dark:bg-background-dark">
+                <div class="mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 px-4 sm:px-6 lg:grid-cols-10 lg:px-8">
+                    <div class="flex flex-col gap-8 text-center lg:col-span-6 lg:text-left">
+                        <div class="flex flex-col gap-6">
+                            <h1 class="text-5xl font-black tracking-tight sm:text-6xl md:text-7xl !leading-tight max-w-3xl mx-auto lg:mx-0">
+                                Skilled Help... Trusted Hands.
+                            </h1>
+                            <p class="max-w-xl text-lg text-text-muted-light dark:text-text-muted-dark mx-auto lg:mx-0">
+                                Find expert handymen for plumbing,
+                                carpentry, repairs, and more — all in one
+                                place.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="relative flex items-center justify-center lg:col-span-4">
+                        <img class="w-full max-w-md rounded-xl shadow-2xl animate-float"
+                             data-alt="A professional handyman with tools smiling confidently."
+                             src="https://lh3.googleusercontent.com/aida-public/AB6AXuAgczJRsRyUCONapr8tGaufpGGvO0yuDAU2UcKe7KIDzG57KbDkeQ9A9RVKAKnza42loJJyzOU5cUTrysPcvYQwvoUkE7p64gTOo5jUnfgKPuccXSyAdEXqR-x47GX4NVUdWySW98MhMj0vFbK2bvGtV3y9bMj1Qa2NxdyXMefaz70Kw1iPO1YQxcyubhlncDGiwrETekhyxMkDj7WE4nY4i5-4AhaoajbG-MJWURhQF3aamheSrO-b9jx2fbbfp1VWfndun3dY_zw" />
+                    </div>
+                </div>
+            </section>
+            <!-- end first section-->
+            <!--second section-->
+            <section class="bg-neutral-light dark:bg-neutral-dark py-16 sm:py-24">
+                <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <div class="mx-auto max-w-3xl text-center">
+                        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
+                            Why
+                            Choose Sanaiy?
+                        </h2>
+                        <p class="mt-4 text-lg text-text-muted-light dark:text-text-muted-dark transform transition duration-300 ease-in-out hover:scale-105">
+                            We
+                            bring professional craftsmanship to your
+                            doorstep — with care, speed, and trust.
+                        </p>
+                    </div>
+                    <div class="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">verified_user</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Vetted
+                                    Professionals
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    Highly
+                                    skilled and background-checked
+                                    experts.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">calendar_add_on</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Instant
+                                    Booking
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    Book
+                                    your service in just a few clicks.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">lock</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Reliable &amp;
+                                    Safe
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    Your
+                                    safety and satisfaction are our top
+                                    priority.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">schedule</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Flexible
+                                    Scheduling
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    Choose
+                                    a time that works best for you.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">sell</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Transparent
+                                    Pricing
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    No
+                                    hidden fees, know the cost upfront.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex flex-col gap-4 rounded-xl bg-background-light dark:bg-background-dark p-6 shadow-md transform transition duration-300 ease-in-out hover:scale-105">
+                            <span class="material-symbols-outlined text-4xl text-primary dark:text-secondary">favorite</span>
+                            <div class="flex flex-col gap-1">
+                                <h3 class="text-lg font-bold">
+                                    Customer
+                                    First
+                                </h3>
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    We're
+                                    dedicated to providing the best
+                                    experience.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--end second section-->
+            <!--third section-->
+            <section class="py-16 sm:py-24">
+                <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <div class="mx-auto max-w-3xl text-center">
+                        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
+                            These
+                            reviews say it better.
+                        </h2>
+                        <p class="mt-4 text-lg text-text-muted-light dark:text-text-muted-dark">
+                            Real
+                            stories from satisfied customers who trust
+                            Sanaiy.
+                        </p>
+                    </div>
+                    <div class="relative mt-12">
+                        <div id="slider"
+                             class="flex items-center justify-center gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-4">
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Sanaiy was a lifesaver! The plumber arrived on time, was incredibly professional, and fixed my leaky faucet in under an hour. I couldn't be happier with the service."</p>
+                                <div class="mt-4 font-bold">- Sarah J.</div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"I needed a wall mounted and some shelves put up. The handyman from Sanaiy was skilled, efficient, and very tidy. The whole process was seamless from booking to completion."</p>
+                                <div class="mt-4 font-bold">
+                                    - Michael
+                                    B.
+                                </div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Transparent pricing and great communication. I knew exactly what to expect. It's refreshing to use a service that is so reliable and trustworthy. Highly recommended!"</p>
+                                <div class="mt-4 font-bold">- Emily R.</div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Fast service with quality workmanship. I will definitely be using Sanaiy again for my home repairs."</p>
+                                <div class="mt-4 font-bold">- Omar A.</div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Fast service with quality workmanship. I will definitely be using Sanaiy again for my home repairs."</p>
+                                <div class="mt-4 font-bold">- Omar A.</div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Fast service with quality workmanship. I will definitely be using Sanaiy again for my home repairs."</p>
+                                <div class="mt-4 font-bold">- Omar A.</div>
+                            </div>
+                            <div class="w-full max-w-sm shrink-0 snap-center rounded-xl border border-neutral-light dark:border-neutral-dark bg-background-light dark:bg-background-dark p-8 shadow-lg">
+                                <p class="italic text-text-muted-light dark:text-text-muted-dark">"Great customer support and reliable technicians. Highly recommend Sanaiy for all handyman services."</p>
+                                <div class="mt-4 font-bold">- Layla S.</div>
+                            </div>
+                        </div>
+                        <div class="absolute inset-y-0 left-0 hidden items-center lg:flex">
+                            <button id="prevBtn" aria-label="Previous"
+                                    class="rounded-full bg-background-light p-2 shadow-md ring-1 ring-neutral-light dark:bg-background-dark dark:ring-neutral-dark">
+                                <span class="material-symbols-outlined">chevron_left</span>
+                            </button>
+                        </div>
+                        <div class="absolute inset-y-0 right-0 hidden items-center lg:flex">
+                            <button id="nextBtn" aria-label="Next"
+                                    class="rounded-full bg-background-light p-2 shadow-md ring-1 ring-neutral-light dark:bg-background-dark dark:ring-neutral-dark">
+                                <span class="material-symbols-outlined">chevron_right</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--end third section-->
+            <!--fourth section-->
+            <section class="bg-neutral-light dark:bg-neutral-dark py-16 sm:py-24">
+                <div class="mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
+                    <div class="order-last lg:order-first">
+                        <img class="w-full rounded-xl shadow-lg"
+                             data-alt="Two diverse handymen collaborating on a project in a modern home."
+                             src="https://lh3.googleusercontent.com/aida-public/AB6AXuBxCrKU1ZKj6vHLJ1y6o5IJlC518j2IyhfjUJvsSPNAGXeyAatxW9WsJucziYhGVI7pA4I2BYX8suSgElyNTFS8YrNVoyj17IZvNwV3eGUa1znZ-8f7CL5U9rNhbjpNQXSGObkmAsS5GWBVtBI9Rate83mKr0Ysy5rEqeHK-6FwC9BmVFsbuWcV9n7SHyQs4rNyTsFEwwvmVXUwUC7sRA5XXJsS1E-xuHLI_ZzEGGmVpMNQ5r7doEST8kMKLShRfPvF2JGMwni3RoM" />
+                    </div>
+                    <div class="flex flex-col gap-6">
+                        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
+                            Our
+                            Story
+                        </h2>
+                        <p class="text-text-muted-light dark:text-text-muted-dark">
+                            Founded
+                            with a mission to simplify home maintenance,
+                            Sanaiy bridges the gap between homeowners and
+                            skilled, reliable handymen. We believe that
+                            finding trusted help shouldn't be a hassle. Our
+                            platform is built on transparency, quality, and
+                            a commitment to customer satisfaction.
+                        </p>
+                        <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                            <div class="flex items-start gap-3">
+                                <span class="material-symbols-outlined mt-1 text-secondary">thumb_up</span>
+                                <div>
+                                    <h4 class="font-bold">
+                                        Trusted by
+                                        Thousands
+                                    </h4>
+                                    <p class="text-sm text-text-muted-light dark:text-text-muted-dark">
+                                        Join
+                                        our growing community of happy
+                                        customers.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-3">
+                                <span class="material-symbols-outlined mt-1 text-secondary">engineering</span>
+                                <div>
+                                    <h4 class="font-bold">
+                                        Verified
+                                        Professionals
+                                    </h4>
+                                    <p class="text-sm text-text-muted-light dark:text-text-muted-dark">
+                                        100+
+                                        skilled experts at your service.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-3">
+                                <span class="material-symbols-outlined mt-1 text-secondary">visibility</span>
+                                <div>
+                                    <h4 class="font-bold">
+                                        On-Demand &amp;
+                                        Transparent
+                                    </h4>
+                                    <p class="text-sm text-text-muted-light dark:text-text-muted-dark">
+                                        Book
+                                        when you need it, with clear
+                                        pricing.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-3">
+                                <span class="material-symbols-outlined mt-1 text-secondary">groups</span>
+                                <div>
+                                    <h4 class="font-bold">
+                                        Community
+                                        Impact
+                                    </h4>
+                                    <p class="text-sm text-text-muted-light dark:text-text-muted-dark">
+                                        Empowering
+                                        local workers and businesses.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--end foutrh  section-->
+            <!--fifth section-->
+            <section class="py-16 sm:py-24">
+                <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <div class="mx-auto max-w-3xl text-center mb-12">
+                        <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
+                            Contact
+                            Us
+                        </h2>
+                        <p class="mt-4 text-lg text-text-muted-light dark:text-text-muted-dark">
+                            Have
+                            a question or need support? Get in touch with
+                            us!
+                        </p>
+                    </div>
+                    <div class="grid grid-cols-1 gap-12 lg:grid-cols-3">
+                        <div class="lg:col-span-2">
+                            <div class="rounded-xl border border-neutral-light dark:border-neutral-dark bg-white dark:bg-background-dark p-8 shadow-lg">
+                                <h3 class="text-2xl font-bold mb-6">
+                                    Send us
+                                    a message
+                                </h3>
+                                <form action="#" class="space-y-6"
+                                      method="POST">
+                                    <div>
+                                        <label class="block text-sm font-medium text-text-light dark:text-text-dark"
+                                               for="name">Full Name</label>
+                                        <div class="mt-1">
+                                            <input class="block w-full rounded-md border-neutral-light shadow-sm focus:border-primary focus:ring-primary dark:bg-neutral-dark dark:border-neutral-dark dark:text-text-dark sm:text-sm"
+                                                   id="name" name="name"
+                                                   required type="text" />
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <label class="block text-sm font-medium text-text-light dark:text-text-dark"
+                                               for="email">
+                                            Email
+                                            Address
+                                        </label>
+                                        <div class="mt-1">
+                                            <input class="block w-full rounded-md border-neutral-light shadow-sm focus:border-primary focus:ring-primary dark:bg-neutral-dark dark:border-neutral-dark dark:text-text-dark sm:text-sm"
+                                                   id="email" name="email"
+                                                   required type="email" />
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <label class="block text-sm font-medium text-text-light dark:text-text-dark"
+                                               for="message">Message</label>
+                                        <div class="mt-1">
+                                            <textarea class="block w-full rounded-md border-neutral-light shadow-sm focus:border-primary focus:ring-primary dark:bg-neutral-dark dark:border-neutral-dark dark:text-text-dark sm:text-sm"
+                                                      id="message" name="message"
+                                                      required
+                                                      rows="4"></textarea>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <button class="flex w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-11 px-5 bg-primary text-white text-base font-bold shadow-sm transition-transform hover:scale-105"
+                                                type="submit">
+                                            <span class="truncate">
+                                                Send
+                                                Message
+                                            </span>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="space-y-8">
+                            <h3 class="text-2xl font-bold">
+                                Contact
+                                Information
+                            </h3>
+                            <div class="space-y-4">
+                                <div class="flex items-start gap-4">
+                                    <span class="material-symbols-outlined mt-1 text-primary dark:text-secondary">call</span>
+                                    <div>
+                                        <h4 class="font-semibold">Phone</h4>
+                                        <p class="text-text-muted-light dark:text-text-muted-dark">
+                                            (123)
+                                            456-7890
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="flex items-start gap-4">
+                                    <span class="material-symbols-outlined mt-1 text-primary dark:text-secondary">mail</span>
+                                    <div>
+                                        <h4 class="font-semibold">Email</h4>
+                                        <p class="text-text-muted-light dark:text-text-muted-dark">support@sanaiy.com</p>
+                                    </div>
+                                </div>
+                                <div class="flex items-start gap-4">
+                                    <span class="material-symbols-outlined mt-1 text-primary dark:text-secondary">location_on</span>
+                                    <div>
+                                        <h4 class="font-semibold">
+                                            Address
+                                        </h4>
+                                        <p class="text-text-muted-light dark:text-text-muted-dark">
+                                            123
+                                            Main Street, Anytown, USA
+                                            12345
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="h-64 w-full rounded-lg bg-neutral-light dark:bg-neutral-dark flex items-center justify-center">
+                                <p class="text-text-muted-light dark:text-text-muted-dark">
+                                    [
+                                    Map Component Placeholder ]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--end fifth section-->
+        </main>
+
+        <!-- footer-->
+        <footer class="bg-custom-blue text-gray-300">
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                    <div>
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="material-icons text-text-orange text-4xl">construction</span>
+                            <h3 class="text-2xl font-bold text-white">
+                                Sanaiy
+                            </h3>
+                        </div>
+                        <p class="text-gray-400 text-sm">
+                            Your reliable
+                            partner for professional home services. Quality,
+                            convenience, and peace of mind, all in one
+                            place.
+                        </p>
+                    </div>
+                    <div>
+                        <h4 class="text-lg font-semibold text-white mb-4">
+                            Quick
+                            Links
+                        </h4>
+                        <ul class="space-y-2 text-sm">
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="/Home/index">Home</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="/Home/about">About Us</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="/Category">Services</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="/Home/Contact">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="text-lg font-semibold text-white mb-4">
+                            Services
+                        </h4>
+                        <ul class="space-y-2 text-sm">
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="#">Plumbing</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="#">Electrical</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="#">Carpentry</a>
+                            </li>
+                            <li>
+                                <a class="hover:text-white transition-colors"
+                                   href="#">AC Repair</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 class="text-lg font-semibold text-white mb-4">
+                            Contact
+                        </h4>
+                        <ul class="space-y-2 text-sm">
+                            <li class="flex items-start">
+                                <span class="material-symbols-outlined text-base mr-2 mt-0.5">location_on</span>
+                                <span>123 Service Lane, Cairo, Egypt</span>
+                            </li>
+                            <li class="flex items-center">
+                                <span class="material-symbols-outlined text-base mr-2">email</span>
+                                <a class="hover:text-white transition-colors"
+                                   href="mailto:contact@sanaiy.com">contact@sanaiy.com</a>
+                            </li>
+                            <li class="flex items-center">
+                                <span class="material-symbols-outlined text-base mr-2">phone</span>
+                                <a class="hover:text-white transition-colors"
+                                   href="tel:+201234567890">
+                                    +20 123 456
+                                    7890
+                                </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <div class="darker-custom-blue">
+                <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+                    <p class="text-center text-sm text-gray-500">
+                        © 2024
+                        Sanaiy. All Rights Reserved.
+                    </p>
+                </div>
+            </div>
+        </footer>
+
+        <!--end footer-->
+    </div>
+</body>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const slider = document.getElementById('slider');
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        // Width of one card including gap (approximate)
+        // You can calculate dynamically if needed
+        const cardStyle = window.getComputedStyle(slider.querySelector('div'));
+        const cardWidth = slider.querySelector('div').offsetWidth + parseInt(cardStyle.marginRight || 24);
+        prevBtn.addEventListener('click', () => {
+            slider.scrollBy({
+                left: -cardWidth,
+                behavior: 'smooth'
+            });
+        });
+        nextBtn.addEventListener('click', () => {
+            slider.scrollBy({
+                left: cardWidth,
+                behavior: 'smooth'
+            });
+        });
+    });
+    document.addEventListener('DOMContentLoaded', () => {
+        const menuButton = document.getElementById('menuButton');
+        const mobileMenu = document.getElementById('mobileMenu');
+        menuButton.addEventListener('click', () => {
+            const isExpanded = menuButton.getAttribute('aria-expanded') === 'true';
+            menuButton.setAttribute('aria-expanded', !isExpanded);
+            mobileMenu.classList.toggle('hidden');
+        });
+    });
+</script>
+</html>

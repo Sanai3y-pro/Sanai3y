@@ -1,0 +1,66 @@
+﻿@model sanaiy.BLL.DTOs.Booking.BookingDetailsDto
+
+<div id="bookingModal"
+     class="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50 backdrop-blur-sm">
+
+    <div class="bg-white rounded-2xl shadow-2xl w-full max-w-xl relative p-8">
+        <!-- Close -->
+        <button type="button"
+                onclick="closeBookingModal()"
+                class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 text-xl">
+            ✖
+        </button>
+
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Booking Details</h2>
+
+        <div class="space-y-4 text-sm text-gray-800">
+            <div>
+                <p class="font-semibold text-gray-500">Craftsman:</p>
+                <p>@Model.CraftsmanName</p>
+            </div>
+
+            <div>
+                <p class="font-semibold text-gray-500">Service:</p>
+                <p>@Model.ServiceName</p>
+            </div>
+
+            <div>
+                <p class="font-semibold text-gray-500">Location:</p>
+                <p>
+                    @Model.City
+                    @if (!string.IsNullOrEmpty(Model.FullAddress))
+                    {
+                        <span>, @Model.FullAddress</span>
+                    }
+                </p>
+            </div>
+
+            <div class="grid grid-cols-2 gap-4">
+                <div>
+                    <p class="font-semibold text-gray-500">Date:</p>
+                    <p>@Model.PreferredDate?.ToString("MMMM dd, yyyy")</p>
+                </div>
+                <div>
+                    <p class="font-semibold text-gray-500">Status:</p>
+                    <p>@Model.Status</p>
+                </div>
+            </div>
+
+            @if (!string.IsNullOrWhiteSpace(Model.AdditionalNote))
+            {
+                <div>
+                    <p class="font-semibold text-gray-500">Notes:</p>
+                    <p>@Model.AdditionalNote</p>
+                </div>
+            }
+        </div>
+
+        <div class="mt-8 flex justify-end">
+            <button type="button"
+                    onclick="closeBookingModal()"
+                    class="px-5 py-2 rounded-lg bg-gray-100 text-gray-700 text-sm font-semibold hover:bg-gray-200">
+                Close
+            </button>
+        </div>
+    </div>
+</div>

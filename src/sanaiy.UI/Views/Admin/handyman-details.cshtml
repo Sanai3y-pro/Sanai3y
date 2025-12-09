@@ -1,0 +1,110 @@
+﻿@* namespace sanaiy.UI.Views.Admin
+{
+<!-- Modal fragment: injected into `#pageContent` by the loader. -->
+<div class="modal-backdrop fixed inset-0 bg-black/40 z-40"></div>
+<div class="modal-container fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6">
+    <div class="modal-dialog relative w-full max-w-4xl bg-white dark:bg-gray-800 rounded-lg shadow-2xl overflow-y-auto" style="max-height:90vh;">
+        <header class="flex items-center justify-between p-4 bg-blue-600 text-white rounded-t-lg">
+            <div class="flex items-center gap-3">
+                <span class="material-icons text-xl">edit</span>
+                <h2 class="text-lg font-semibold">Handyman Details</h2>
+            </div>
+            <button data-close class="p-1 rounded-full hover:bg-white/20 transition-colors" aria-label="Close details">
+                <span class="material-icons">close</span>
+            </button>
+        </header>
+        <div class="flex-grow overflow-y-auto bg-white dark:bg-gray-800">
+            <nav class="border-b border-gray-200 dark:border-gray-700 px-6">
+                <ul class="flex -mb-px">
+                    <li class="mr-1">
+                        <a class="inline-flex items-center gap-2 px-4 py-3 text-blue-600 border-b-2 border-blue-600 font-semibold text-sm" href="#" data-page="handyman-details">
+                            <span class="material-icons text-base">person</span>
+                            Personal Information
+                        </a>
+                    </li>
+                    <li class="mr-1">
+                        <a class="inline-flex items-center gap-2 px-4 py-3 text-gray-500 hover:text-gray-900 border-b-2 border-transparent hover:border-gray-300 font-medium text-sm transition-colors" href="#" data-page="handyman-statistics">
+                            <span class="material-icons text-base">bar_chart</span>
+                            Statistics
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="p-6 space-y-8">
+                <section>
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center gap-4">
+                            <h3 class="text-2xl font-bold text-gray-900 dark:text-gray-100">mohamed ahmed</h3>
+                            <span class="text-xs font-medium text-gray-500 bg-gray-100 dark:bg-gray-700 dark:text-gray-300 px-2.5 py-1 rounded-full">ID: 115</span>
+                            <span class="text-xs font-medium text-green-700 bg-green-100 dark:bg-green-900 dark:text-green-300 px-2.5 py-1 rounded-full">APPROVED</span>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Email:</p>
+                            <p class="text-base text-gray-900">mariaarunim2110@gmail.com</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Phone:</p>
+                            <p class="text-base text-gray-900">012411587947</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Specialty:</p>
+                            <p class="text-base text-gray-900">Plumbing</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Experience:</p>
+                            <p class="text-base text-gray-900">15 years</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">National ID:</p>
+                            <p class="text-base text-gray-900">31670959706985</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Active:</p>
+                            <p class="text-base text-gray-900">Yes</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Created:</p>
+                            <p class="text-base text-gray-900">Jul 13, 2025 at 10:18 AM</p>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-500">Updated:</p>
+                            <p class="text-base text-gray-900">Jul 13, 2025 at 10:18 AM</p>
+                        </div>
+                    </div>
+                </section>
+                <section class="grid grid-cols-1 md:grid-cols-2 gap-6 pt-6 border-t border-gray-200">
+                    <div>
+                        <p class="text-sm font-medium text-gray-500 mb-3">Profile Image:</p>
+                        <img alt="Profile image of Mohamed Ahmed" class="w-24 h-24 rounded-full object-cover border-2 border-gray-200" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAYz_h6L3magH8UEFC2LfL1zla5r9CkQPyEBBee3mTruGXAcOvR23CXRKfUjwayEwZJcAfN1Lvmgnq8ITfstV9GCcdzWXY8Cz8Y7iZQ1D9GzK-IDxreFGUHNTm02czQvxQOSvOXeYKasWPCpPjtMjq1-sGsezY3ywyetV4kvG2LXIOWzkwvfOJ5if_4lp-pMaSF-ZXFQKLdmX1zl2PgJWakPU0MkqRGN_CdY0-YK9AfnFLVqHrA4DBpAOaHiS0bZqZz7QX6DS-Xxxk4" />
+                    </div>
+                    <div>
+                        <p class="text-sm font-medium text-gray-500 mb-3">National ID Image:</p>
+                        <img alt="National ID of Mohamed Ahmed" class="w-24 h-24 rounded-full object-cover border-2 border-gray-200" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAUYQg4427-UcEkYjO6nb3KQNLvwGE48nfd7ZZlOwsqT8Gjvz_AEWjzSosVAv_vpaPD86oejoAQlVkXQ6l8KT560ylFfVJwkDdtPjpx1wi8sCNoFtQOc_Mpnu09f2pg_WZai0XdNekmezqoW56CMNw0j_dqaWCI-yYruIZMCygG44TRRLmpDJ4Ui-8Z3vHEkycpGw9ceoQzESLQvVwjE4YqC5thjMNOMUc0mEoA_a_5DpQw81WiR-eEKtBmru48bIXuH2pv3AT83H4Q" />
+                    </div>
+                </section>
+                <section>
+                    <h4 class="text-lg font-semibold text-gray-900 mb-4">Default Address</h4>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-200 space-y-3">
+                        <div class="flex items-center justify-between">
+                            <p class="text-base font-medium text-gray-900">st moheb</p>
+                            <div>
+                                <span class="text-xs font-medium text-blue-800 bg-blue-100 px-2.5 py-1 rounded-full mr-2">DEFAULT</span>
+                                <span class="text-xs font-medium text-green-700 bg-green-100 px-2.5 py-1 rounded-full">ACTIVE</span>
+                            </div>
+                        </div>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-3 text-sm">
+                            <p><span class="text-gray-500">Type:</span> <span class="text-gray-900">Home</span></p>
+                            <p><span class="text-gray-500">City:</span> <span class="text-gray-900">Cairo</span></p>
+                            <p class="col-span-full"><span class="text-gray-500">Coordinates:</span> <span class="text-gray-900">31.042738, 31.364873</span></p>
+                        </div>
+                        <p class="text-xs text-gray-500 pt-2 border-t border-gray-200 mt-3">Created: Jul 13, 2025 at 08:18 AM</p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+} *@

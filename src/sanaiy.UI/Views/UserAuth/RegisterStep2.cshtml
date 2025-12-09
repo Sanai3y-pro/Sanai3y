@@ -1,0 +1,212 @@
+﻿@model sanaiy.UI.ViewModels.RegisterStep2ViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Craftsman – Additional Details</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<script>
+    function previewImage(input, previewId) {
+        const file = input.files[0];
+        const preview = document.getElementById(previewId);
+
+        if (!file) {
+            // Cancel or cleared
+            preview.src = "";
+            preview.classList.add("hidden");
+            return;
+        }
+
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            preview.src = e.target.result;
+            preview.classList.remove("hidden");
+        };
+        reader.readAsDataURL(file);
+    }
+</script>
+
+
+
+<body class="bg-gray-50 min-h-screen flex justify-center items-start p-6">
+
+    <div class="w-full max-w-4xl bg-white rounded-2xl shadow-xl p-10 mt-6">
+
+        <!-- STEPS -->
+        <div class="flex justify-center items-center gap-6 mb-10">
+            <div class="flex flex-col items-center">
+                <div class="w-10 h-10 rounded-full bg-gray-300 flex justify-center items-center font-semibold">1</div>
+                <span class="text-gray-400 text-sm mt-1">Basic Info</span>
+            </div>
+            <div class="w-16 h-1 bg-gray-300"></div>
+            <div class="flex flex-col items-center">
+                <div class="w-10 h-10 rounded-full bg-blue-600 text-white flex justify-center items-center font-semibold">2</div>
+                <span class="text-gray-800 text-sm mt-1">Additional Details</span>
+            </div>
+        </div>
+
+        <h1 class="text-3xl font-extrabold text-center text-black mb-2">
+            Join & Connect the Fastest Sani3y Community
+        </h1>
+        <p class="text-center text-gray-500 mb-8">
+            Complete your profile with additional details.
+        </p>
+
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="mb-4 p-3 bg-red-100 border border-red-400 text-red-700 rounded">
+                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    <div>@error.ErrorMessage</div>
+
+                }
+            </div>
+        }
+        <!-- FORM -->
+        <form asp-action="RegisterStep2" method="post" enctype="multipart/form-data" class="space-y-6">
+
+            <!-- Document Uploads -->
+            <h2 class="text-xl font-bold mb-3">Document Uploads</h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+
+                <!-- ID Card -->
+                <label class="relative border-2 border-dashed border-gray-300 rounded-xl p-6 text-center cursor-pointer hover:border-blue-500 transition">
+
+                    <img id="preview-idcard" class="hidden w-full h-40 object-cover rounded mb-2" />
+
+                    <div class="text-4xl">🪪</div>
+                    <p class="font-semibold">ID Card</p>
+
+                    <input id="input-idcard"
+                           asp-for="IDCardImage"
+                           type="file"
+                           accept="image/*"
+                           class="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+                           onchange="previewImage(this, 'preview-idcard')"
+                           required />
+                </label>
+
+                <!-- Drug Test -->
+                <label class="relative border-2 border-dashed border-gray-300 rounded-xl p-6 text-center cursor-pointer hover:border-blue-500 transition">
+
+                    <img id="preview-drug" class="hidden w-full h-40 object-cover rounded mb-2" />
+
+                    <div class="text-4xl">🛡️</div>
+                    <p class="font-semibold">Drug Test Certificate</p>
+                    <p class="text-xs text-gray-500">PDF, JPG up to 5MB</p>
+
+                    <input id="input-drug"
+                           asp-for="DrugTestFile"
+                           type="file"
+                           accept=".pdf,.jpg,.jpeg,.png"
+                           class="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+                           onchange="previewImage(this, 'preview-drug')"
+                           required />
+                </label>
+
+
+                <!-- Criminal Record -->
+                <label class="relative border-2 border-dashed border-gray-300 rounded-xl p-6 text-center cursor-pointer hover:border-blue-500 transition">
+
+                    <img id="preview-criminal" class="hidden w-full h-40 object-cover rounded mb-2" />
+
+                    <div class="text-4xl">⚖️</div>
+                    <p class="font-semibold">Criminal Record</p>
+                    <p class="text-xs text-gray-500">PDF, JPG up to 5MB</p>
+
+                    <input id="input-criminal"
+                           asp-for="CriminalRecordFile"
+                           type="file"
+                           accept=".pdf,.jpg,.jpeg,.png"
+                           class="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+                           onchange="previewImage(this, 'preview-criminal')"
+                           required />
+                </label>
+
+            </div>
+            <!-- National ID -->
+            <div>
+                <label class="font-semibold">National ID</label>
+                <input asp-for="NationalID" class="w-full px-4 py-3 border rounded-lg" />
+                <span asp-validation-for="NationalID" class="text-red-500 text-sm"></span>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+                <!-- Years of Experience -->
+                <div class="relative mt-1 rounded-lg overflow-hidden border">
+                    <select asp-for="YearsOfExperience"
+                            class="w-full h-12 px-4 pr-10 bg-white focus:ring-2 focus:ring-blue-500 appearance-none">
+                        <option value="">Select experience</option>
+                        <option value="1">1 year</option>
+                        <option value="2">2 years</option>
+                        <option value="3">3 years</option>
+                        <option value="5">5+ years</option>
+                        <option value="10">10+ years</option>
+                    </select>
+
+                    <!-- Custom Dropdown Arrow -->
+
+                    <div class="absolute inset-y-0 right-3 flex items-center pointer-events-none">
+                        <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" stroke-width="2"
+                             viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </div>
+                </div>
+
+                <!-- Type of Craft -->
+                <div class="relative mt-1 rounded-lg overflow-hidden border">
+                    <select asp-for="Category"
+                            class="w-full h-12 px-4 pr-10 bg-white focus:ring-2 focus:ring-blue-500 appearance-none">
+                        <option value="">Select craft type</option>
+                        <option value="Electrician">Electrician</option>
+                        <option value="Plumber">Plumber</option>
+                        <option value="Carpenter">Carpenter</option>
+                        <option value="Painter">Painter</option>
+                    </select>
+
+                    <!-- Custom Dropdown Arrow -->
+
+                    <div class="absolute inset-y-0 right-3 flex items-center pointer-events-none">
+                        <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" stroke-width="2"
+                             viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Bio -->
+            <div>
+                <label class="font-semibold">Bio (optional)</label>
+                <textarea asp-for="Bio" class="w-full px-4 py-3 border rounded-lg bg-white focus:ring-2 focus:ring-blue-500 h-28"></textarea>
+            </div>
+
+            <!-- Buttons -->
+            <div class="flex justify-between mt-6">
+                <a href="/UserAuth/RegisterStep1"
+                   class="px-5 py-2 bg-gray-300 rounded-lg font-semibold text-sm">
+                    Back
+                </a>
+
+                <button type="submit"
+                        class="px-6 py-2 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition text-sm">
+                    Submit
+                </button>
+            </div>
+
+
+        </form>
+
+    </div>
+</body>
+</html>

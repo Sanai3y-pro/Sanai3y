@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] Home </title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<style>
+    body {
+        opacity: 0;
+        transition: opacity 0.25s ease;
+    }
+</style>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        document.body.style.opacity = "1";
+    });
+</script>
+
+<body style="display: flex; flex-direction: column; min-height: 100vh; margin: 0;">
+    @Html.Partial("header")   <!-- الهيدر -->
+
+    <main style="flex: 1;">
+        @RenderBody()         <!-- محتوى كل صفحة -->
+    </main>
+
+    @Html.Partial("_footer")   <!-- الفوتر -->
+</body>
+</html>

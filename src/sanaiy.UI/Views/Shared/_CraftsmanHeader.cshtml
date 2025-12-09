@@ -1,0 +1,91 @@
+﻿@{
+    string profileImage = "/images/craftsman-default.png";
+
+    if (User.Identity.IsAuthenticated)
+    {
+        var claim = User.Claims.FirstOrDefault(c => c.Type == "ProfileImageUrl");
+
+        if (claim != null && !string.IsNullOrEmpty(claim.Value))
+        {
+            profileImage = claim.Value.StartsWith("/") ? claim.Value : "/" + claim.Value;
+        }
+    }
+}
+<header class="fixed top-0 left-0 right-0 bg-white shadow-sm z-40">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between h-20">
+
+            <!-- Logo -->
+            <div class="flex items-center space-x-2">
+                <span class="material-icons text-[#0D47A1] text-4xl">construction</span>
+                <a class="text-2xl font-bold text-[#0D47A1]" asp-controller="Craftsman" asp-action="Home">
+                    Sanai3y
+                </a>
+            </div>
+
+            <!-- Desktop Nav -->
+            <nav class="hidden md:flex space-x-8">
+                <a class="text-base font-medium" asp-controller="Craftsman" asp-action="Home">Home</a>
+                <a class="text-base font-medium hover:text-orange-400 transition-colors" href="/UserAuth/Logout">Log out</a>
+            </nav>
+
+            <!-- User Avatar -->
+            <div class="flex items-center space-x-3 relative">
+
+                <img alt="User avatar"
+                     class="w-12 h-12 rounded-full object-cover ring-2 ring-gray-300 cursor-pointer"
+                     src="@profileImage" />
+
+                <!-- Dropdown -->
+                <div id="user-dropdown" class="hidden absolute right-0 top-full mt-2 w-52 bg-white rounded-md shadow-lg border border-gray-200">
+
+                    <a href="/Craftsman/Profile"
+                       class="block px-4 py-2 text-sm hover:bg-gray-100">My Profile</a>
+
+                    <a href="/Setting"
+                       class="block px-4 py-2 text-sm hover:bg-gray-100">Settings</a>
+
+                    <a href="/Craftsman/AddViolation"
+                       class="block px-4 py-2 text-sm hover:bg-gray-100">Add Violation</a>
+
+                    <a href="/Craftsman/Wallet"
+                       class="block px-4 py-2 text-sm hover:bg-gray-100">Wallet</a>
+
+                </div>
+
+                <!-- Mobile Menu -->
+                <button id="mobile-menu-btn" class="md:hidden text-gray-600">
+                    <i class="material-icons">menu</i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Nav -->
+        <div id="mobile-menu" class="hidden md:hidden mt-2 space-y-2">
+            <a class="block px-4 py-2 hover:bg-gray-100" asp-controller="Craftsman" asp-action="Home">Home</a>
+            <a class="block px-4 py-2 hover:bg-gray-100" href="/UserAuth/Logout">Log out</a>
+        </div>
+    </div>
+</header>
+
+<script>
+    // Mobile menu
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    if (btn && menu) {
+        btn.addEventListener('click', () => menu.classList.toggle('hidden'));
+    }
+
+    // Dropdown
+    const avatar = document.querySelector('img[alt="User avatar"]');
+    const dropdown = document.getElementById('user-dropdown');
+
+    if (avatar && dropdown) {
+        avatar.addEventListener('click', (e) => {
+            e.stopPropagation();
+            dropdown.classList.toggle('hidden');
+        });
+
+        document.addEventListener('click', () => dropdown.classList.add('hidden'));
+    }
+</script>

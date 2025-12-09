@@ -1,0 +1,186 @@
+﻿@using sanaiy.BLL.DTOs.Booking
+@using sanaiy.BLL.DTOs.Address
+@using sanaiy.BLL.DTOs.Service
+
+@{
+    ViewData["Title"] = "Confirm Booking";
+
+    var service = ViewBag.Service as ServiceDetailsDto;
+    var address = ViewBag.Address as AddressListItemDto;
+    var scheduleDate = ViewBag.PreferredDate as string; // احنا بنخزنها كـ string في Session
+    var scheduleTime = ViewBag.PreferredTime as string;
+    var additionalNotes = ViewBag.AdditionalNote as string;
+}
+@{
+    Layout = "_ClientLayout";
+}
+
+<!DOCTYPE html>
+<html class="light" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sanaiy - Confirm Booking</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#0D47A1",
+                        "background-light": "#F7F9FC",
+                        "background-dark": "#121212",
+                        "footer-bg": "#1a253c",
+                        "footer-bg-darker": "#0b3b9a",
+                    },
+                    fontFamily: { display: ["Roboto", "sans-serif"] },
+                    borderRadius: { DEFAULT: "0.5rem" },
+                },
+            },
+        };
+    </script>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-text-light dark:text-text-dark">
+    <div class="relative flex min-h-screen w-full flex-col">.
+        
+
+        <main class="flex-grow mt-20">
+
+
+            <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
+                <!-- Stepper -->
+                <div class="mb-8 overflow-x-auto">
+                    <div class="flex items-center justify-between w-full min-w-[600px] gap-0">
+                        <!-- Step 1 -->
+                        <div class="flex flex-col items-center text-primary shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-orange-400 text-white">
+                                <i class="material-icons text-lg">design_services</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Services</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-orange-400 mx-2 self-center"></div>
+
+                        <!-- Step 2 -->
+                        <div class="flex flex-col items-center text-primary shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-orange-400 text-white">
+                                <i class="material-icons text-lg">location_on</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Location</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-orange-400 mx-2 self-center"></div>
+
+                        <!-- Step 3 -->
+                        <div class="flex flex-col items-center text-primary shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-orange-400 text-white">
+                                <i class="material-icons text-lg">calendar_today</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Schedule</p>
+                        </div>
+                        <div class="flex-1 border-t-2 border-orange-400 mx-2 self-center"></div>
+
+                        <!-- Step 4 -->
+                        <div class="flex flex-col items-center text-gray-500 shrink-0">
+                            <div class="w-10 h-10 flex items-center justify-center rounded-full bg-primary text-white ring-2 ring-blue-200">
+                                <i class="material-icons text-lg">check_circle_outline</i>
+                            </div>
+                            <p class="mt-2 font-semibold whitespace-nowrap">Confirm</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Confirm Form -->
+                <div class="max-w-4xl mx-auto">
+                    <form id="confirmBookingForm" >
+                        <input type="hidden" name="ServiceId" value="@service?.Id" />
+                        <input type="hidden" name="AddressId" value="@address?.Id" />
+                        <input type="hidden" name="PreferredDate" value="@scheduleDate" />
+                        <input type="hidden" name="PreferredTime" value="@scheduleTime" />
+                        <input type="hidden" name="AdditionalNote" value="@additionalNotes" />
+
+                        <div class="bg-white dark:bg-slate-800 rounded-lg shadow-md border border-slate-200 dark:border-slate-700 p-8">
+                            <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-8">Confirm Your Booking</h1>
+
+                            <!-- Selected Service -->
+                            <div class="mb-6">
+                                <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Selected Service</h2>
+                                <p class="text-gray-800 dark:text-gray-100">@service?.ServiceName</p>
+                            </div>
+
+                            <!-- Selected Location -->
+                            <div class="mb-6">
+                                <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Selected Location</h2>
+                                <p class="text-gray-800 dark:text-gray-100">@address?.FullAddress</p>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">Type: @address?.AddressType</p>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">City: @address?.City</p>
+                            </div>
+
+                            <!-- Scheduled Date & Time -->
+                            <div class="mb-6">
+                                <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Scheduled Date & Time</h2>
+                                <p class="text-gray-800 dark:text-gray-100">@scheduleDate</p>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">@scheduleTime</p>
+                            </div>
+
+                            <!-- Additional Notes -->
+                            <div class="mb-6">
+                                <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Additional Notes</h2>
+                                <p class="text-gray-800 dark:text-gray-100">@additionalNotes</p>
+                            </div>
+
+                            <!-- Buttons -->
+                            <div class="flex justify-between mt-8 pt-4 border-t border-gray-200 dark:border-gray-700">
+                                <button type="button" onclick="window.history.back()" class="px-6 py-2 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+                                    Back
+                                </button>
+                                <button type="submit" class="px-6 py-2 bg-primary text-white rounded-lg font-medium hover:bg-blue-800 transition-colors">
+                                    Confirm Booking
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </main>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        document.getElementById("confirmBookingForm").addEventListener("submit", function (e) {
+            e.preventDefault(); // منع الفورم من submit التقليدي
+
+            fetch("/booking/confirm", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-Requested-With": "XMLHttpRequest" // علشان الـ Controller يعرف إنه AJAX
+                },
+                body: JSON.stringify({}) // لو كل البيانات في Session، مش محتاجة تبعتي حاجة
+            })
+                .then(res => res.json())
+                .then(data => {
+                    if (data.success) {
+                        Swal.fire({
+                            icon: "success",
+                            title: "Booking Confirmed",
+                            text: data.message,
+                            confirmButtonText: "OK"
+                        }).then(() => {
+                            window.location.href = "@Url.Action("Home", "Client")"; // بعد الضغط على OK
+                        });
+                    } else {
+                        Swal.fire("Error", data.message, "error");
+                    }
+                })
+                .catch(err => {
+                    Swal.fire("Error", "Something went wrong", "error");
+                });
+        });
+    </script>
+
+</body>
+</html>

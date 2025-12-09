@@ -1,0 +1,88 @@
+﻿@{
+    string profileImage = "/images/client-default.png";
+
+    if (User.Identity.IsAuthenticated)
+    {
+        var claim = User.Claims.FirstOrDefault(c => c.Type == "ProfileImageUrl");
+
+        if (claim != null && !string.IsNullOrEmpty(claim.Value))
+        {
+            profileImage = claim.Value.StartsWith("/") ? claim.Value : "/" + claim.Value;
+        }
+    }
+}
+<body>
+    <header class="fixed top-0 left-0 right-0 bg-white shadow-sm z-40" style="background-color: #ffffff !important;">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                <!-- Logo -->
+                <div class="flex items-center space-x-2">
+                    <span class="material-icons text-[#0D47A1] text-4xl">construction</span>
+                    <a class="text-2xl font-bold text-[#0D47A1]" asp-controller="Client" asp-action="Home">Sanai3y</a>
+                </div>
+
+                <!-- Desktop Nav -->
+                <nav class="hidden md:flex space-x-8">
+                    <a class="text-base font-medium" asp-controller="Client" asp-action="Home">Home</a>
+                    <a class="text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors" href="/Category">Services</a>
+                    <a class="text-base font-medium hover:text-orange-400 dark:hover:text-orange-400 transition-colors" href="/UserAuth/Logout">Log out</a>
+                </nav>
+
+                <!-- User Info & Mobile Menu Button -->
+
+                <img alt="User avatar"
+                     class="w-12 h-12 rounded-full object-cover ring-2 ring-gray-200 cursor-pointer"
+                     src="@profileImage" />
+                <!-- Dropdown Menu -->
+                <div id="user-dropdown" class="hidden absolute right-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg z-50 border border-gray-200">
+                    <a href="/Client/Profile" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors">My Profile</a>
+                    <a href="/Client/Setting" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors">Settings</a>
+                    <a href="/Client/Violation" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors">Add Violation</a>
+                </div>
+                <!-- Mobile menu button -->
+                <button id="mobile-menu-btn" class="md:hidden text-gray-600 dark:text-gray-300 focus:outline-none">
+                    <i class="material-icons">menu</i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Nav Menu -->
+        <div id="mobile-menu" class="hidden md:hidden mt-2 space-y-2">
+            <a class="block px-4 py-2 text-gray-600 dark:text-gray-300 hover:text-orange-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" href="#">Home</a>
+            <a class="block px-4 py-2 text-gray-600 dark:text-gray-300 hover:text-orange-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" href="">Services</a>
+            <a class="block px-4 py-2 text-gray-600 dark:text-gray-300 hover:text-orange-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" href="/UserAuth/Logout">Log out</a>
+        </div>
+        </div>
+    </header>
+
+    <script>
+        // Mobile menu functionality
+        const btn = document.getElementById('mobile-menu-btn');
+        const menu = document.getElementById('mobile-menu');
+
+        if (btn && menu) {
+            btn.addEventListener('click', () => {
+                menu.classList.toggle('hidden');
+            });
+        }
+
+        // User avatar dropdown functionality
+        const userAvatar = document.querySelector('img[alt="User avatar"]');
+        const userDropdown = document.getElementById('user-dropdown');
+
+        if (userAvatar && userDropdown) {
+            userAvatar.addEventListener('click', function (event) {
+                event.stopPropagation(); // Prevent event bubbling
+                userDropdown.classList.toggle('hidden'); // Toggle visibility
+            });
+
+            // Optional: Close dropdown when clicking outside
+            document.addEventListener('click', function (event) {
+                if (!userAvatar.contains(event.target) && !userDropdown.contains(event.target)) {
+                    userDropdown.classList.add('hidden');
+                }
+            });
+        }
+    </script>
+</body>
+

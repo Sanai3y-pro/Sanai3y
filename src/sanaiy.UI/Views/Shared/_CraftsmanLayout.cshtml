@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sanaiy Craftsman</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <style>
+        body {
+            opacity: 0;
+            transition: opacity 0.25s ease;
+        }
+    </style>
+</head>
+<body style="display:flex; flex-direction:column; min-height:100vh; margin:0;">
+
+    @Html.Partial("_CraftsmanHeader")
+
+    <main style="flex:1; padding-top: 1rem;">
+        @RenderBody()
+    </main>
+
+    @Html.Partial("_footer")
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            document.body.style.opacity = "1";
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

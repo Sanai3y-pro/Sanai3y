@@ -1,0 +1,44 @@
+@model IEnumerable<sanaiy.UI.ViewModels.BookingViewModel>
+<div class="p-6">
+    <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
+        <div class="p-6">
+            <h1 class="text-2xl font-bold text-gray-900 dark:text-white">Bookings</h1>
+        </div>
+
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+                <thead class="text-xs text-white uppercase bg-blue-600 dark:bg-blue-700">
+                    <tr>
+                        <th class="px-6 py-3 font-semibold">Customer</th>
+                        <th class="px-6 py-3 font-semibold">Service</th>
+                        <th class="px-6 py-3 font-semibold">Status</th>
+                        <th class="px-6 py-3 font-semibold">Payment Method</th>
+                        <th class="px-6 py-3 font-semibold">Payment Status</th>
+                        <th class="px-6 py-3 font-semibold">Amount</th>
+                        <th class="px-6 py-3 font-semibold">Date</th>
+                        <th class="px-6 py-3 font-semibold">Execution Time</th>
+                        <th class="px-6 py-3 font-semibold">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var b in Model ?? Enumerable.Empty<sanaiy.UI.ViewModels.BookingViewModel>())
+                    {
+                        <tr class="bg-white dark:bg-gray-800 border-b dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
+                            <td class="px-6 py-4 font-medium text-gray-900 dark:text-white whitespace-nowrap">@b.ClientName</td>
+                            <td class="px-6 py-4">@b.ServiceName</td>
+                            <td class="px-6 py-4">@b.StatusText</td>
+                            <td class="px-6 py-4">@b.PaymentMethod</td>
+                            <td class="px-6 py-4">@(b.PriceFinal.HasValue ? "Paid" : "Pending")</td>
+                            <td class="px-6 py-4">@b.PriceFinal</td>
+                            <td class="px-6 py-4">@b.Date?.ToString("yyyy-MM-dd")</td>
+                            <td class="px-6 py-4">@b.PreferredTime</td>
+                            <td class="px-6 py-4">
+                                <button class="px-3 py-1 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded hover:bg-gray-100 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-600 dark:hover:bg-gray-600">Detail</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
