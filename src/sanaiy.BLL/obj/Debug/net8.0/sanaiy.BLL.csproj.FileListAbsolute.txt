@@ -1,0 +1,136 @@
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+E:\depi project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+E:\depi project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+E:\depi project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+E:\depi project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+D:\DEPI_Project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+D:\DEPI_Project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\DEPI_Project\sanaiy\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+D:\DEPI_Project\sanaiy\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+D:\OneDrive\Documents\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+D:\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+D:\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+D:\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\sanaiy(Sign_Login)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+D:\sanaiy(Sign_Login)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+D:\OneDrive\Documents\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanaiy(CraftsmanProfileandEdit)\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+C:\Users\kemo1\OneDrive\Documenten\wts\sanai3y with a7la wallet\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+C:\Users\CM\OneDrive\سطح المكتب\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+C:\Users\LEGION\Downloads\sanaiy(CraftsmanProfileandEdit)\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.deps.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.runtimeconfig.json
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\bin\Debug\net8.0\sanaiy.BLL.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.AssemblyReference.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfoInputs.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.AssemblyInfo.cs
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.csproj.CoreCompileInputs.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\refint\sanaiy.BLL.dll
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.pdb
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\sanaiy.BLL.genruntimeconfig.cache
+E:\sanaiy(CraftsmanProfileandEdit) version 2\sanaiy.BLL\obj\Debug\net8.0\ref\sanaiy.BLL.dll
